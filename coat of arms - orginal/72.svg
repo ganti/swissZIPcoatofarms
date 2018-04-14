@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="252.56152"
+   height="295.83636"
+   id="svg2780">
+  <defs
+     id="defs2782" />
+  <g
+     transform="translate(1,-782.84802)"
+     id="layer1">
+    <path
+       d="M 0,783.84803 L 4.5556592,975.18341 C 7.8096929,1111.8514 242.75182,1111.8514 246.00586,975.18341 L 250.56152,783.84803 L 0,783.84803 z"
+       id="path3282"
+       style="fill:#d33921;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 125.28125,-20.46875 L 125.28125,273.34375 C 184.83029,273.34375 244.37298,239.17775 246,170.84375 L 250.5625,-20.46875 L 125.28125,-20.46875 z"
+       transform="translate(0,804.33069)"
+       id="path3841"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 187.28125,23.34375 L 125.28125,85.375 L 125.28125,125.75 L 187.28125,63.75 L 247.125,123.5625 L 248.0625,84.125 L 187.28125,23.34375 z"
+       transform="translate(0,804.33069)"
+       id="path3856"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 187.28125,118.375 L 125.28125,180.375 L 125.28125,220.78125 L 187.28125,158.75 L 237.84375,209.3125 C 242.05828,199.57386 244.82082,188.74216 245.71875,176.78125 L 187.28125,118.375 z"
+       transform="translate(0,804.33069)"
+       id="use3637"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 0,783.84803 L 4.5556592,975.18341 C 7.8096929,1111.8514 242.75182,1111.8514 246.00586,975.18341 L 250.56152,783.84803 L 0,783.84803 z"
+       id="path3854"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

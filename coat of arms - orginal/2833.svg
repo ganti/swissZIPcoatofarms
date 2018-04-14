@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Seltisberg</title>
+  <desc>Wappen der Schweizer Gemeinde Seltisberg, Kanton Baselland</desc>
+  <g stroke="black" stroke-width="9">
+    <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" fill="white" />
+    <path d="M 4.5,4.5 h 531 V 324 H 4.5 z" fill="#e2001a" />
+  </g>
+  <g stroke="black" stroke-width="4">
+    <path d="M 270,309.5 A 118,90 36 0,0 125,204.2 118,90 108 0,0 180.4,33.7 118,90 0 0,0 359.6,33.7 118,90 -108 0,0 415,204.2 118,90 -36 0,0 270,309.5 z" fill="#00901e" />
+    <path id="blatt" d="M 270,157 L 227,98 A 52,52 0 1,1 313,98 z" fill="white" />
+    <g id="blatt2">
+      <use xlink:href="#blatt" transform="rotate(72,270,157)" />
+      <use xlink:href="#blatt" transform="rotate(144,270,157)" />
+    </g>
+    <use xlink:href="#blatt2" transform="rotate(144,270,157)" />
+    <circle cx="270" cy="157" r="55" fill="#ffd400" />
+  </g>
+</svg>

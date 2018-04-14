@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-234 0 468 556">
+<g stroke="#000">
+<path stroke-width="16" d="m-225 9v313a225 225 0 0 0 450 0v-313z" fill="#fff"/>
+<rect height="260" width="444" y="12" x="-222" stroke-width="10" fill="#2874b2"/>
+<rect rx="24" ry="20" height="300" width="52" y="218" x="-26" stroke-width="10" fill="#2874b2"/>
+<use stroke-width="16" xlink:href="#d"/>
+<g stroke-width="4" >
+<g id="d" fill="#fff">
+<path fill="#2874b2" d="m31 468h71v-25h25v25h17v-60h-55v22h-26.7v-22h-22.1v-26.2h22.1v-22.1h26.7v22.1h57v-59.9h-19v24.7h-25v-24.7h-71"/>
+<rect transform="rotate(45)" height="156" width="156" y="24" x="24"/>
+<rect id="b" rx="19" height="38" width="88" y="28" x="-44"/>
+<use xlink:href="#b" transform="matrix(0 1 -1 0 156 144)"/>
+<use xlink:href="#b" transform="matrix(0 -1 1 0 -156 144)"/>
+<rect rx="14" ry="14" height="28" width="92" y="221" x="-46" stroke-width="10"/>
+<rect rx="8" height="16" width="66" y="253" x="-33"/>
+</g>
+</g>
+<path d="m7 139a26 26 0 1 1 0 14 26 26 0 1 1 -14 0 26 26 0 1 1 0 -14 26 26 0 1 1 14 0z"/>
+<path d="m16 130a20 20 0 1 1 0 32 20 20 0 1 1 -32 0 20 20 0 1 1 0 -32 20 20 0 1 1 32 0z" stroke-width="2" stroke-miterlimit="20" fill="#2874b2"/>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Maisprach</title>
+  <desc>Wappen der Schweizer Gemeinde Maisprach, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 V 350 a 265.5,265.5 0 0,0 531,0 V 4.5 z" stroke="black" stroke-width="9" fill="white" />
+  <g stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="#e2001a">
+    <path d="M 7,7 V 350 A 265.5,265.5 0 0,0 270,613 V 7 z" />
+    <path d="M 270,74 h 94 c 18,-16 33,-14 47,0 25,1 46,-2 63,-11 3,7 9,11 16,14 -8,12 -9,25 0,39 -7,0 -13,4 -16,11 -10,-11 -25,-17 -46,-16 -3,10 -12,14 -25,14 -24,21 -22,54 9,77 l -8,13 c -27,1 -60,-61 -21,-99 H 270 z" />
+    <path d="M 348,102 c -17,6 -25,33 -51,33 -7,0 -17,-3 -27,-12 v 27 c 23,11 43,5 53,-1 25,-15 29,-31 48,-37" />
+      <use xlink:href="#traube" transform="matrix(-1,0,0,1,540,0)" />
+    <g fill="white">
+      <path d="M 270,74 H 130 c -25,0 -46,-2 -63,-11 -3,7 -9,11 -16,14 8,12 9,25 0,39 7,0 13,4 16,11 17,-13 38,-11 63,-11 h 32.5 c -39,25 -39,77 -11,109 l 26,-14 c -24,-23 -30,-57 5,-79 16,0 27,-2 35,-16 h 53 z" />
+      <path d="M 270,123 c -7,-6 -20,-31 -25,-50 -6,-22 -33,-48 -67,-48 -33,0 -52,27 -43,36 10,10 19,-15 45,-15 27,0 46,27 51,48 8,34 25,47 39,56 z" />
+      <g id="traube">
+        <path d="M 46,220 L 155,515 248,217" fill="black" />
+        <circle cx="154" cy="498" r="29" />
+        <circle cx="125" cy="446" r="29" />
+        <circle cx="183" cy="444" r="29" />
+        <circle cx="107" cy="389" r="30" />
+        <circle cx="198" cy="386" r="30" />
+        <circle cx="152" cy="389" r="30" />
+        <circle cx="78" cy="333" r="30" />
+        <circle cx="218" cy="332" r="30" />
+        <circle cx="181" cy="333" r="30" />
+        <circle cx="125" cy="333" r="30" />
+        <circle cx="55" cy="278" r="31" />
+        <circle cx="93" cy="278" r="31" />
+        <circle cx="223" cy="276" r="31" />
+        <circle cx="197" cy="278" r="31" />
+        <circle cx="149" cy="278" r="31" />
+        <circle cx="62" cy="224" r="31" />
+        <circle cx="116" cy="225" r="31" />
+        <circle cx="223" cy="224" r="31" />
+        <circle cx="180" cy="225" r="31" />
+      </g>
+    </g>
+  </g>
+</svg>
+

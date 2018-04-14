@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Thürnen</title>
+  <desc>Wappen der Schweizer Gemeinde Thürnen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <path d="M 0,0 h 350 V 233 A 175 175 0 0 1 0,233 z" />
+  <path d="M 32.5,327 v -59 a 44.5 44.5 0 0 1 89,0 v 59 h 107 v -59 a 44.5 44.5 0 0 1 89,0 v 59 M 4,4 V 186 H 125 V 114 H 225 v -2 H 125 V 76 H 225 v -2 H 113 L 175,24 237,74 H 225 V 186 H 346 V 4" fill="#ffd400" />
+  <g stroke="black" stroke-width="4" fill="#00901e" clip-path="url(#cpSchild)">
+    <path d="M 31,408 V 345 a 48 48 0 0 1 96,0 h 96 a 48 48 0 0 1 96,0 v 63" />
+    <path d="M 127,366 a 57 48 0 1 1 96,0" stroke-linecap="round" />
+  </g>
+</svg>

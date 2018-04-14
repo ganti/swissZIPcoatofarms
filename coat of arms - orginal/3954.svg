@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   id="svg3042">
+  <title
+     id="title3046">
+Wappen Malans (CH-GR)
+</title>
+  <metadata
+     id="metadata3044">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="de"
+         dc:format="image/svg+xml"
+         dc:date="2006-12-03"
+         dc:title="Wappen Malans (CH-GR)">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+Wappen Malans (CH-GR)
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3048">
+    <clipPath
+       id="clippath">
+      <path
+         d="m 360,4140 a 3240,3240 0 0 0 6480,0 l 0,-3870 -6480,0 0,3870 z"
+         id="path3051" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style3053" />
+  </defs>
+  <g
+     id="g3068">
+    <g
+       transform="scale(0.066667,0.066667)"
+       clip-path="url(#clippath)"
+       id="g3057"
+       style="fill:none;stroke:none">
+      <path
+         d="m -225,-225 0,7650 7650,0 0,-7650 -7650,0 z"
+         id="feld-1"
+         style="fill:#0000ff" />
+      <path
+         d="m 3375,4095 -1395,-1575 -810,3420 540,0 540,-2430 1350,1530 1350,-1530 540,2430 540,0 -810,-3420 -1395,1575 0,-2115 855,0 135,45 90,-630 -225,90 -405,45 -450,0 45,-855 45,-135 -630,0 45,135 45,855 -855,0 -135,-45 -90,630 225,-90 405,-45 450,0 0,2115 z"
+         id="buchstabe-1"
+         style="fill:#ffef00;stroke:#202020;stroke-width:30" />
+    </g>
+    <path
+       d="m 24.00012,276.00138 a 216.00108,216.00108 0 0 0 432.00216,0 l 0,-258.00129 -432.00216,0 0,258.00129 z"
+       id="clip-boundary"
+       style="fill:none;stroke:#202020;stroke-width:6.00003004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
+  </g>
+</svg>

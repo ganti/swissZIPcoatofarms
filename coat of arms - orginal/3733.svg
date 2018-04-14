@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438" height="480" version="1.1" >
+<title>Wappen der Gemeinde Tamins in Graubünden in der Schweiz</title>
+
+<defs>
+   <path id="border" d="M -2,0.38 l 0,-2.38 l 4,0 l 0,2.38 a 2,2 0 0,1 -4,0 z" transform="translate(0,0.25) scale(0.988)" />
+<!--  x= cos(Pi/8) , y= sin(Pi/8) , polygon-scale(1/y)  -->
+   <g id="top" transform="translate(0,-1)" >
+      <polygon points="-0.38268343,0.92387953 0,0 0.38268343,0.92387953" stroke-width="0.0" transform="scale(1.0823922)" />
+      <polyline points="-0.38268343,0.92387953 0,0 0.38268343,0.92387953" stroke-width="0.02" fill="none" stroke="black" transform="scale(0.6333)" />
+   </g>
+   <g id="half" >
+      <use xlink:href="#top" transform="rotate(-60)"/>
+      <use xlink:href="#top" transform="rotate(0)"/>
+      <use xlink:href="#top" transform="rotate(60)"/>
+   </g>
+   <g id="star" >
+      <use xlink:href="#half" />
+      <use xlink:href="#half" transform="scale(1,-1)"/>
+   </g>
+</defs>
+<g id="wappen" transform="translate(219,192) scale(109.5)" >
+   <use xlink:href="#border" fill="#00b200" stroke="black" stroke-width="0.05" />
+   <use xlink:href="#star" transform="translate(0,0.34) scale(1.53)" fill="#ffef00" />
+</g>
+</svg>

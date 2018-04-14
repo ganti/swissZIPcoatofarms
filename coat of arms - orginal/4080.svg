@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Villmergen</title>
+  <desc>Wappen der Schweizer Gemeinde Villmergen, Kanton Aargau</desc>
+  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="50" cy="51.5" r="29" fill="#f00000" />
+  <g id="blatt" stroke="black" stroke-width="1" stroke-linecap="round">
+    <path d="M 33.26,27.69 C 28.7,20.9 33.21,12.2 50,12.2 66.79,12.2 71.3,20.9 66.74,27.69 M 41.8,40.2 c 3.07,-2.24 -6.79,-10 -8.54,-12.51 -2.07,-2.97 -2.36,-6.9 -0.06,-9.07 4.67,-4.4 11.62,1.2 16.8,1.17 5.18,0.03 12.13,-5.57 16.8,-1.17 2.3,2.17 2.01,6.1 -0.06,9.07 -1.75,2.51 -11.61,10.27 -8.54,12.51" fill="#f00000" />
+    <path d="M 50.48,80.58 c 0,4.65 3.16,5.62 2.64,11.14 -0.58,-0.14 -0.87,-0.28 -1.36,-0.88 0.12,2.22 -0.46,3.75 -1.76,5.33 -1.3,-1.58 -1.88,-3.11 -1.76,-5.33 -0.49,0.6 -0.78,0.74 -1.36,0.88 -0.52,-5.52 2.64,-6.49 2.64,-11.14" fill="#009944" />
+    <path d="M 47,39 c 3,0 2.5,-19.5 3,-19.5 0.5,0 0,19.5 3,19.5" stroke="none" />
+  </g>
+  <g id="blatt2">
+    <use transform="rotate(72,50,51.5)" xlink:href="#blatt" />
+    <use transform="rotate(144,50,51.5)" xlink:href="#blatt" />
+  </g>
+  <use transform="rotate(144,50,51.5)" xlink:href="#blatt2" />
+  <circle cx="50" cy="51.5" r="13" stroke="black" stroke-width="1" fill="#fcdb00" />
+</svg>
+

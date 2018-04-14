@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0 0 100 112.5">
+  <title>Wappen von Neuenhof</title>
+  <desc>Wappen der Schweizer Gemeinde Neuenhof, Kanton Aargau</desc>
+  <g stroke="black" stroke-width="2" fill="#f00000">
+    <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" />
+    <path d="M 1,1 H 99 V 52 H 1 z" fill="#fcdb00" />
+    <path d="M 27.5,21 L 44.8,21 50,4.5 55.5,21 72.8,21 58.8,31.1 64.15,47.6 50,37.4 35.85,47.6 41.2,31.1 z"
+          id="stern" stroke-width="1" />
+    <use y="52.5" fill="#fcdb00" xlink:href="#stern" />
+  </g>
+</svg>

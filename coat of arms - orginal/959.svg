@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docname="Walterswil-coat of arms.svg"
+   sodipodi:docbase="F:\Mis Documentos\Mis imágenes\Encyclopédie\Escudos de Suiza">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title>Gabrit d'un blason suisse</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:#ffffff;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="0"
+         id="stop2965" />
+      <stop
+         style="stop-color:black;stop-opacity:0.64583331;"
+         offset="1"
+         id="stop2959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       cx="858.04236"
+       cy="579.93323"
+       fx="858.04236"
+       fy="579.93323"
+       r="300" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="682"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.48301887"
+     inkscape:cx="381.47982"
+     inkscape:cy="409.5469"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     sodipodi:insensitive="true">
+    <path
+       id="path1899"
+       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z "
+       style="fill:white;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     sodipodi:insensitive="true">
+    <g
+       id="g5493"
+       transform="matrix(4.101501,0,0,4.101501,-2562.504,-2328.443)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         id="path2810"
+         d="M 705.56396,641.23486 C 719.86183,634.05971 710.87484,623.73649 720.51758,608.77637 C 716.66356,609.14598 714.35643,611.06249 712.19971,613.12939 C 719.77377,599.29441 713.29902,593.70437 707.6709,589.55273 C 708.95574,594.56696 711.33926,599.00797 705,608 C 700.94035,611.60319 697.90657,616.0012 698.31787,623.12939 C 697.9119,616.06061 700.9522,611.64281 705,608 C 696.83207,593.10439 709.78983,587.61819 698.44727,579.68213 C 702.77364,587.24401 689.45007,591.3963 693.06728,606.04686 C 696.46735,616.68912 683.05636,628.61454 698.82275,640.34034 C 683.04718,628.55317 696.50001,616.6708 693.05908,606.18848 C 685.44003,600.42757 688.16712,594.66667 689.09424,588.90576 C 679.61534,596.20683 679.7278,603.97577 684.35303,611.96484 C 681.79606,609.35432 679.2391,608.87866 676.68213,608.64697 C 685.39667,622.15757 673.06331,642.67551 695.90576,640.71728 C 705.95604,631.57083 713.35467,621.62891 705,608 C 713.30965,621.63602 706.01436,631.51529 695.90576,640.71728 L 705.56396,641.23486 z "
+         style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         id="path1921"
+         d="M 689.61181,640.97118 L 689.61182,659.16455 L 684.09424,653.12939 L 680,658 L 688.44727,669.50635 L 688.44727,700.4585 L 682.3291,694.42334 L 677.6709,698.64697 L 687.07031,714.11816 L 685.38818,736.70605 C 684.99337,747.41908 711.13287,745.90646 709.87061,736.96484 L 709.09424,720.37549 L 717.15332,709.29395 L 712.92969,705.19971 L 708.36426,710.07031 L 707.58789,677.74121 L 716.16455,665.19971 L 711.37695,660.6709 L 706.55273,666.18848 L 705.64697,641.10058 C 701.49188,641.16085 699.41836,640.32902 697.58328,639.39501 C 695.91138,640.41303 692.54139,640.582 689.61181,640.97118 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         id="path3721"
+         d="M 731.44091,630.66309 L 731.69971,654.3916 L 726.18213,648.35644 L 722.08789,653.22705 L 730.53516,664.7334 L 730.53516,691.02735 L 724.93457,685.50977 L 720.27637,689.7334 L 729.1582,704.68701 L 727.73486,716.66455 C 727.34005,727.37758 753.47955,725.86496 752.21729,716.92334 L 751.44092,689.98243 L 759.5,678.90089 L 755.27637,674.80665 L 750.71094,679.67725 L 749.1582,655.6294 L 757.73486,643.0879 L 752.94726,638.55909 L 748.12304,644.07667 L 747.47607,630.79249 L 731.44091,630.66309 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 749.38183,632.5 C 764.68526,628.26669 752.10482,615.00163 764.46484,599.26514 C 760.61082,599.63475 756.49217,601.93945 754.33545,604.00635 C 757.25023,592.86885 754.52849,590.52696 750.45361,585.47607 C 751.73845,590.4903 752.05166,593.63737 745.7124,602.6294 C 741.65275,606.23259 740.68928,607.26634 739.80664,612.45361 C 740.69461,607.19636 741.6646,606.27221 745.7124,602.6294 C 741.85135,588.52758 742.07054,585.54469 745.88819,579.7461 C 740.19053,582.57526 732.20958,585.08709 735.20302,602.87596 C 734.85065,609.63638 724.54513,619.87968 740.31152,631.60548 C 724.65109,619.93345 734.77621,609.64036 735.19482,603.01758 C 727.57577,597.25667 729.78528,591.23699 730.7124,585.47608 C 716.95656,591.23373 727.8903,600.47049 722.99512,615.39307 C 718.12356,630.24362 725.24545,632.71378 739.72363,631.98242 C 743.43358,626.32962 754.06707,616.25831 745.7124,602.6294 C 754.02205,616.26542 743.3625,626.40348 739.72363,631.98242 C 739.72363,631.98242 747.28837,633.0791 749.38183,632.5 z "
+         id="path3715"
+         sodipodi:nodetypes="ccccccccccccscccs" />
+      <path
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 649.0288,628.0752 L 647.73487,643.78125 L 642.99365,638.78125 L 638.89941,643.65186 L 646.57032,654.12305 L 645.79395,683.00489 L 640.19336,677.22852 L 635.53516,681.45215 L 644.41699,694.07666 L 642.73486,716.66455 C 642.34005,727.37758 668.47955,725.86496 667.21729,716.92334 L 665.71094,674.77979 L 674.2876,662.23829 L 669.5,657.70948 L 664.67578,663.22706 L 665.06396,628.2046 L 649.0288,628.0752 z "
+         id="path3719"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+      <path
+         sodipodi:nodetypes="csccccccccccsscccc"
+         id="path3717"
+         d="M 666.41211,630.33119 C 672.12686,630.68101 676.24597,620.92351 670.97755,608.69545 C 667.26166,600.07086 680.36262,598.11488 667.48389,583.30726 C 668.76873,588.32149 669.08194,591.46856 662.74268,600.46059 C 658.68303,604.06378 657.71956,605.09753 656.83692,610.2848 C 657.72489,605.02755 658.69488,604.1034 662.74268,600.46059 C 658.88163,586.35877 659.10082,583.37588 662.91847,577.57729 C 657.22081,580.40645 649.23986,582.91828 652.2333,600.70715 C 651.88093,607.46757 641.57541,617.71087 657.3418,629.43667 C 641.68137,617.76464 651.80649,607.47155 652.2251,600.84877 C 644.60605,595.08786 646.81556,589.06818 647.74268,583.30727 C 640.19384,587.58715 636.10024,595.71474 644.33287,606.05196 C 640.16009,600.2493 635.98731,600.93555 631.81453,599.57398 C 629.20854,598.72364 638.8955,608.28088 637.82569,613.48305 C 634.67748,628.79186 642.27573,630.54497 656.75391,629.81361 C 660.46386,624.16081 671.09735,614.0895 662.74268,600.46059 C 671.05233,614.09661 660.39278,624.23467 656.75391,629.81361 C 656.75391,629.81361 664.31865,630.91029 666.41211,630.33119 z "
+         style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reflet final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
+       id="path2346" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z "
+       id="path3239" />
+  </g>
+</svg>

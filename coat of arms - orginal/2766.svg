@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Birsfelden</title>
+  <desc>Wappen der Schweizer Gemeinde Birsfelden, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 200 H 4 z" />
+    </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="4">
+    <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" fill="#e2001a" />
+    <path d="M -65,83 c 30,0 50,20 80,20 s 50,-20 80,-20 50,20 80,20 50,-20 80,-20 50,20 80,20 50,-20 80,-20 V 28 C 385,28 365,48 335,48 S 285,28 255,28 205,48 175,48 125,28 95,28 45,48 15,48 -45,28 -65,28" fill="white" clip-path="url(#cpSchild)" />
+    <path d="M 98,97 L 115.5,148 168,137.6 133,178 168,218.4 115.5,208 98,259 80.5,208 28,218.4 63,178 28,137.6 80.5,148 z" id="Stern" fill="#ffd400" />
+    <use x="154" xlink:href="#Stern" />
+    <use x="77" y="133" xlink:href="#Stern" />
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Schneisingen</title>
+  <desc>Wappen der Schweizer Gemeinde Schneisingen, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke="black" stroke-width="2" fill="#0093dd" />
+  <g stroke="black" stroke-width="1" fill="#009944" clip-path="url(#cpSchild)">
+    <path d="M 16,112 L 44.5,65 c 3,-5 8,-5 11,0 L 84,112" />
+    <path d="M -9,112 L 19.5,65 c 3,-5 8.5,-5 11,0 L 50,112 69.5,65 c 2.5,-5 8,-5 11,0 L 109,112" />
+  </g>
+  <path d="M 21,24.6 L 25,12 29,24.6 41.9,21.7 33,31.5 41.9,41.3 29,38.4 25,51 21,38.4 8.1,41.3 17,31.5 8.1,21.7 z"
+        id="stern" stroke="black" stroke-width="1" fill="#fcdb00" />
+  <use x="50" xlink:href="#stern" />
+</svg>

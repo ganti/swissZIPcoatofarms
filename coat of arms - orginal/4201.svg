@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="400" height="450" viewBox="0 0 100 112.5">
+  <title>Wappen von Lenzburg</title>
+  <desc>Wappen der Schweizer Gemeinde Lenzburg, Kanton Aargau</desc>
+  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="50" cy="52" r="28" stroke="black" stroke-width="1" fill="#0093dd" />
+</svg>

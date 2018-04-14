@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="300" height="350"
+	xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="round-border">
+<path
+	d="M 0,200 V 0 H 300 V 200
+	A 150,150 0 0,1 0,200" />
+	</clipPath>
+<clipPath id="round-field">
+<path
+	d="M 5,215 V 5 H 295 V 215
+	A 146,148 0 0,1 5,215" />
+	</clipPath>
+</defs>
+<rect clip-path="url(#round-border)"
+	fill="#000"
+	width="300" height="350" />
+<g clip-path="url(#round-field)">
+<rect
+	fill="#fcef3c"
+	width="300" height="350" />
+<polygon
+	fill="#000"
+	stroke="#000" stroke-width="4"
+	points="0,110 300,110 300,210 0,210" />
+</g>
+</svg>

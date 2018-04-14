@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-206 -370 412 492">
+<path stroke="#000" stroke-width="10" d="m-201-365v281a201 201 0 0 0 402 0v-281z" fill="#fff"/>
+<g stroke="#000" transform="rotate(-33,-42,-160)">
+<g id="d" fill="#fff">
+<ellipse id="e" rx="32" ry="20" cy="-84" stroke-width="7" fill="#38c"/>
+<use xlink:href="#e" transform="rotate(180)"/>
+</g>
+<g stroke-width="7" fill="#38c">
+<rect rx="8" height="304" width="33.96" y="-355" x="-16.96"/>
+<path d="m-115.7-320.7v59.3h32.09v-20.2h22.6v20.2h19.03v23.6h-19.03v20.2h-22.6v-20.2h-32.09v59.3h80.86v-32h17.84v-77h-17.84v-33.2z"/>
+<rect rx="14" height="28" width="67" stroke="#000" y="-99" x="-33.5" stroke-width="7" fill="#38c"/>
+</g>
+<use xlink:href="#d" transform="rotate(90)"/>
+<path stroke-width="7" d="m182.8 299.8-47 47v46.4l47 47h46.4l47-47v-46.4l-47-47z" transform="translate(-206,-370)" fill="#38c"/>
+<g id="f" stroke-width="7" fill="#fff">
+<path id="b" stroke-linejoin="round" d="m0-50c-12.08-0.37-22.57 11.35-20.87 23.32-0.29 2.8 2.98 8.08 2.59 8.64-9.73-6.16-23.97-2.26-29.19 8.03-6.02 10.36-0.87 25.02 10.3 29.36 6.26 2.7 13.81 2.04 19.51-1.69-6.65 9.72-2.9 24.48 7.65 29.81 10.36 6.02 25.02 0.87 29.36-10.3 2.7-6.26 2.04-13.81-1.69-19.51 9.43 6.41 23.64 3.18 29.3-6.77 6.51-10.06 2.08-24.94-8.86-29.82-6.43-3.17-14.45-2.65-20.44 1.27 6.65-9.72 2.9-24.48-7.65-29.81-3.055-1.66-6.531-2.54-10.01-2.53z" stroke-miterlimit="20" stroke-width="7" fill="#fff"/>
+</g>
+</g>
+</svg>

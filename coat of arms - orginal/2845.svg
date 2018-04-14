@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Diepflingen</title>
+  <desc>Wappen der Schweizer Gemeinde Diepflingen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <path d="M 0,0 H 540 V 350 A 270,270 0 0,1 0,350" />
+  <g clip-path="url(#cpSchild)">
+    <path d="M 0,200 H 540 V 520 H 0" fill="white" />
+    <path d="M 0,528 H 540 v 90 H 0" fill="#00901e" />
+    <g stroke="black" stroke-width="4" fill="#e2001a">
+      <path d="M 237.125,189 v 60 a 32.875,25 0 0,0 65.75,0 v -60" />
+      <g id="dach2">
+        <g id="dach1">
+          <path d="M 302.875,189 v 60 a 32.875,25 0 0,0 65.75,0 v -60 60 a 32.875,25 0 0,0 65.75,0 v -60" />
+          <path d="M 270,127 v 60 a 32.875,25 0 0,0 65.75,0 v -60 60 a 32.875,25 0 0,0 65.75,0 v -60 60 a 32.875,25 0 0,0 32.875,25 V 127" />
+          <path d="M 237.125,83 v 42 a 32.875,25 0 0,0 65.75,0 v -42 42 a 32.875,25 0 0,0 65.75,0 v -42 42 a 32.875,25 0 0,0 65.75,0 v -42 z" />
+        </g>
+        <use x="-328.75" y="64" xlink:href="#dach1" />
+      </g>
+      <use xlink:href="#dach2" transform="matrix(-1,0,0,1,540,0)" />
+    </g>
+  </g>
+  <path d="M 286,312 V 522 H 254 V 312 M 151,520 V 341 a 250,250 0 0,1 238,0 V 520" stroke="black" stroke-width="4" fill="#e2001a" />
+  <path d="M 151,354 h 23 v 13 h 80 v 29 h -80 v 13 h -23 m 0,39 h 23 v 13 h 80 v 29 h -80 v 13 h -23" id="scharnier" />
+  <use xlink:href="#scharnier" transform="matrix(-1,0,0,1,540,0)" />
+</svg>

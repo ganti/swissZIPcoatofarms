@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="400" height="450" viewBox="0 0 1000 1125">
+  <title>Wappen von Oberkulm</title>
+  <desc>Wappen der Schweizer Gemeinde Oberkulm, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 20,20 H 980 V 625 A 480 480 0 0 1 20,625 z" />
+    </clipPath>
+  </defs>
+  <path d="M 0,0 H 1000 V 625 A 500 500 0 0 1 0,625" />
+  <g clip-path="url(#cpSchild)">
+    <path d="M 343.6,20 V 1125 H 656.6 V 20" fill="white" />
+    <path d="M 666.7,20 V 1125 H 980 V 20" fill="#0093dd" />
+  </g>
+</svg>

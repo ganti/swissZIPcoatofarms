@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg version="1.1" viewBox="0 0 3520 4100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Wappen von Brislach</title>
+<desc>Wappen der Schweizer Gemeinde Brislach, Kanton Baselland</desc>
+<path d="m30 30h3460v2310a1730 1730 0 0 1-3460 0z" fill="#ffd400" stroke="#000" stroke-width="60"/>
+<use x="4" y="8" xlink:href="#b"/>
+<g id="b" transform="translate(10,10)">
+<use transform="matrix(-1,0,0,1,3500,0)" xlink:href="#zepter"/>
+<g id="zepter" transform="matrix(.81 -.65 .65 .81 230 288)" fill="#e2001a" stroke="#000">
+<use stroke-width="80" xlink:href="#z"/>
+<g stroke-width="40">
+<rect x="-360" y="1320" width="720" height="210" ry="105"/>
+<rect x="-300" y="1519" width="600" height="210" ry="105"/>
+<path d="m175 1400 85 2500h-520l85-2500"/>
+</g>
+<g id="z">
+<path id="a" d="m100.9 1380c-6.324-384 28.15-480 138.1-606 116-133 314-125 437-28 147 117 139 274 55 389-59 89-172 167-134 274-199-80-1-191-161-304-144-91-211 107-214 273"/>
+<path d="m-78 1380c20-635-172-670-251-764-75-89-76-238 50-318 119-76 236-161 279-298 43 137 160 222 279 298 126 80 125 229 50 318-79 94-271 129-251 764"/>
+<use transform="scale(-1,1)" xlink:href="#a"/>
+<rect x="-355" y="1328" width="710" height="200" ry="100" stroke-width="26"/>
+<rect x="-295" y="1524" width="590" height="200" ry="100" stroke-width="26"/>
+</g>
+</g>
+</g>
+</svg>

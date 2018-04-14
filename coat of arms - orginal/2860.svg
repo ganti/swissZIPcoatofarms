@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0 0 540 620">
+  <title>Wappen von Rünenberg</title>
+  <desc>Wappen der Schweizer Gemeinde Rünenberg, Kanton Baselland</desc>
+  <defs>
+    <path d="M 270,288 L 244.8,96.6 c -3.3,-24.8 17.3,-24.8 25.2,-33.4 7.9,8.6 28.5,8.6 25.5,33.4 z"
+          id="blatt" stroke="black" stroke-width="4" fill="white" />
+  </defs>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z" stroke="black" stroke-width="9" fill="#0056ad" />
+  <g id="blatt12">
+    <g id="blatt6">
+      <g id="blatt2">
+        <use xlink:href="#blatt" transform="rotate(7.5,270,288)" />
+        <use xlink:href="#blatt" transform="rotate(22.5,270,288)" />
+      </g>
+      <use xlink:href="#blatt2" transform="rotate(30,270,288)" />
+      <use xlink:href="#blatt2" transform="rotate(60,270,288)" />
+    </g>
+    <use xlink:href="#blatt6" transform="rotate(90,270,288)" />
+  </g>
+  <use xlink:href="#blatt12" transform="rotate(180,270,288)" />
+  <circle cx="270" cy="288" r="80" stroke="black" stroke-width="4" fill="#ffd400" />
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Tenniken</title>
+  <desc>Wappen der Schweizer Gemeinde Tenniken, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <path d="M 0,0 H 350 V 233 A 175 175 0 0 1 0,233 z" />
+  <path d="M 346,104 L 261.5,4 H 177 L 346,204 V 304 L 177,104 V 204 L 346,404 H 261.5 L 177,304 V 404 H 346 z" fill="white" clip-path="url(#cpSchild)" />
+  <g stroke="black" stroke-width="4">
+    <path d="M 2,2 H 175 V 406 A 173 173 0 0 1 2,233 z" fill="#ffd400" />
+    <path d="M 88.5,67 C 130,67 144,59 159,50 C 148,79 148,97 159,125 C 144,117 130,108 108,108 C 108,177 119,248 129,318 C 107,304 70,304 48,318 C 58,248 69,177 69,108 C 47,108 33,117 18,125 C 29,97 29,79 18,50 C 33,59 47,67 88.5,67 z" stroke-linejoin="round" />
+  </g>
+</svg>

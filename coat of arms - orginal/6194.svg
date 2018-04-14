@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Eischoll-coat of arms.svg"
+   sodipodi:docbase="C:\Users\Camilo\Documents\Escudos de Suiza"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>11-JUN-2010</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Aliman5040</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:language />
+        <dc:title>Wappen Gemeinde Eischoll</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 381.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="603 : 381.5 : 1"
+       inkscape:persp3d-origin="301.5 : 254.33333 : 1"
+       id="perspective5149" />
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:#ffffff;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       cx="858.04236"
+       cy="579.93323"
+       fx="858.04236"
+       fy="579.93323"
+       r="300" />
+    <inkscape:perspective
+       id="perspective5197"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3459"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective17"
+       inkscape:persp3d-origin="297.63751 : 254.63 : 1"
+       inkscape:vp_z="595.27502 : 381.94501 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 381.94501 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="720"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.3355177"
+     inkscape:cx="864.29413"
+     inkscape:cy="421.62988"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5151"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       id="path1899"
+       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z"
+       style="fill:#e20909;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3695"
+       sodipodi:cx="400"
+       sodipodi:cy="393"
+       sodipodi:rx="260"
+       sodipodi:ry="270"
+       d="M 660,393 A 260,270 0 1 1 140,393 A 260,270 0 1 1 660,393 z"
+       transform="matrix(0.9561254,0,0,0.9207134,-80.95016,19.659634)" />
+    <g
+       style="fill:#000000;overflow:visible"
+       id="g3686"
+       transform="matrix(0.8514906,0,0,0.8514906,50.548835,54.507715)">
+      <g
+         sodipodi:insensitive="true"
+         inkscape:label="Fond Ã©cu"
+         id="g3688"
+         style="fill:#000000">
+	
+	
+</g>
+      <g
+         inkscape:label="Meubles"
+         id="g3690"
+         style="fill:#000000">
+	
+</g>
+      <g
+         inkscape:label="Contour final"
+         id="g3692"
+         style="fill:#000000">
+	
+</g>
+      <path
+         id="path2390"
+         d="M 520.81033,347.36887 C 513.57533,347.36887 506.83333,349.47287 501.15133,353.09387 C 503.52633,348.23987 504.85933,342.78287 504.85933,337.01487 C 504.85933,316.77087 488.44933,300.35987 468.20633,300.35987 C 447.96233,300.35987 431.55233,316.77087 431.55233,337.01487 C 431.55233,343.98287 433.49233,350.49487 436.87033,356.04187 L 322.70133,356.04187 L 322.70133,241.87687 C 328.24833,245.25187 334.76133,247.19687 341.72733,247.19687 C 361.97433,247.19687 378.38233,230.78487 378.38233,210.54087 C 378.38233,190.29787 361.97433,173.88586 341.72733,173.88586 C 335.96033,173.88586 330.50633,175.22186 325.64933,177.59586 C 329.27033,171.91386 331.37633,165.17186 331.37633,157.93586 C 331.37633,137.69186 314.96633,121.28086 294.72133,121.28086 C 274.47633,121.28086 258.06633,137.69186 258.06633,157.93586 C 258.06633,165.17186 260.17033,171.91386 263.79033,177.59486 C 258.93533,175.22086 253.48133,173.88486 247.71233,173.88486 C 227.46933,173.88486 211.05733,190.29787 211.05733,210.53987 C 211.05733,230.78387 227.46933,247.19587 247.71233,247.19587 C 254.68033,247.19587 261.19333,245.25087 266.73933,241.87587 L 266.73933,356.04187 L 152.57433,356.04187 C 155.94933,350.49487 157.89333,343.98187 157.89333,337.01487 C 157.89333,316.77087 141.48133,300.35987 121.23833,300.35987 C 100.99433,300.35987 84.58233,316.77087 84.58233,337.01487 C 84.58233,342.78387 85.91833,348.23887 88.29233,353.09387 C 82.61033,349.47287 75.86833,347.36887 68.63233,347.36887 C 48.38733,347.36887 31.97733,363.77787 31.97733,384.02387 C 31.97733,404.26787 48.38733,420.67787 68.63233,420.67787 C 75.86833,420.67787 82.61033,418.57387 88.29133,414.95287 C 85.91733,419.80787 84.58133,425.26387 84.58133,431.03087 C 84.58133,451.27687 100.99333,467.68787 121.23733,467.68787 C 141.48033,467.68787 157.89233,451.27687 157.89233,431.03087 C 157.89233,424.06387 155.94833,417.55187 152.57333,412.00387 L 266.73833,412.00387 L 266.73833,526.17087 C 261.19233,522.79487 254.67933,520.85287 247.71133,520.85287 C 227.46833,520.85287 211.05633,537.26187 211.05633,557.50787 C 211.05633,577.75087 227.46833,594.16187 247.71133,594.16187 C 253.48033,594.16187 258.93433,592.82587 263.78933,590.44987 C 260.16933,596.13387 258.06533,602.87487 258.06533,610.11087 C 258.06533,630.35587 274.47533,646.76587 294.72033,646.76587 C 314.96533,646.76587 331.37533,630.35587 331.37533,610.11087 C 331.37533,602.87487 329.27033,596.13287 325.64833,590.44987 C 330.50533,592.82587 335.96033,594.16187 341.72633,594.16187 C 361.97333,594.16187 378.38133,577.75087 378.38133,557.50787 C 378.38133,537.26187 361.97333,520.85287 341.72633,520.85287 C 334.75933,520.85287 328.24733,522.79487 322.70033,526.17087 L 322.70033,412.00387 L 436.86833,412.00387 C 433.49033,417.55187 431.55033,424.06387 431.55033,431.03087 C 431.55033,451.27687 447.96033,467.68787 468.20433,467.68787 C 488.44733,467.68787 504.85733,451.27687 504.85733,431.03087 C 504.85733,425.26387 503.52433,419.80787 501.14933,414.95287 C 506.83233,418.57387 513.57333,420.67787 520.80833,420.67787 C 541.05033,420.67787 557.46233,404.26787 557.46233,384.02387 C 557.46433,363.77787 541.05233,347.36887 520.81033,347.36887 z"
+         style="fill:#000000;stroke:#000000;stroke-width:3" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reflet final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
+       id="path2346" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z"
+       id="path3239" />
+  </g>
+</svg>

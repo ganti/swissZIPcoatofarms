@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg20"
+   version="1.0"
+   width="603"
+   height="763">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:coverage />
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:language />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         id="stop2895"
+         offset="0"
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0.313726;" />
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0.25098;"
+         offset="0.19"
+         id="stop2897" />
+      <stop
+         id="stop2901"
+         offset="0.60000002"
+         style="stop-color: rgb(107, 107, 107); stop-opacity: 0.12549;" />
+      <stop
+         id="stop2899"
+         offset="1"
+         style="stop-color: rgb(0, 0, 0); stop-opacity: 0.12549;" />
+    </linearGradient>
+    <radialGradient
+       r="300"
+       fy="579.93323"
+       fx="858.04236"
+       cy="579.93323"
+       cx="858.04236"
+       gradientTransform="matrix(1.21503, 1.53158e-24, 1.46468e-23, 1.26667, -839.192, -490.489)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3236"
+       xlink:href="#linearGradient2893" />
+  </defs>
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     style="display:inline"
+     id="layer1">
+    <path
+       style="display:inline;fill:#2b5df2;fill-opacity:1"
+       d="m 1.5,1.49998 0,458.86792 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 467.18543,761.5 601.5,626.6785 601.5,460.3679 l 0,-458.86792 -300,0 z"
+       id="path1899" />
+    <path
+       style="display:inline;fill:#5ab532;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.5,1.5 0,458.86792 c 0,166.3106 134.31456,301.1321 299.99999,301.1321 L 301.5,1.5 Z"
+       id="path1899-4" />
+    <path
+       style="display:inline;fill:#2b5df2;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.5,1.5 0,377.43396 299.99998,0 1e-5,-377.43396 z"
+       id="path1899-4-9" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 301.50001,1.5 0,377.43396 299.99998,0 L 601.5,1.5 Z"
+       id="path1899-4-9-2" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer6">
+    <g
+       id="g4287">
+      <circle
+         r="42.674965"
+         cy="283.34891"
+         cx="241.04384"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3906" />
+      <circle
+         r="42.674965"
+         cy="378.18219"
+         cx="182.72136"
+         id="path3908"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="42.674965"
+         cy="377.94507"
+         cx="301.50003"
+         id="path3910"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="42.674965"
+         cy="377.94507"
+         cx="420.27866"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3912" />
+      <circle
+         r="42.674965"
+         cy="473.01544"
+         cx="241.04384"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3914" />
+      <circle
+         r="42.674965"
+         cy="473.2525"
+         cx="353.42123"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3916" />
+      <circle
+         r="42.674965"
+         cy="567.84869"
+         cx="301.50003"
+         id="path3918"
+         style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="flowRoot4271"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#954f25;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(162,84)">
+      <path
+         id="path4297"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#954f25;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 254.39062,89.037815 -53.02734,145.410155 -41.99219,0 -53.02734,-145.410155 39.35547,0 35.15625,102.148435 35.15625,-102.148435 38.3789,0 z" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     id="layer3">
+    <path
+       id="path2346"
+       d="m 1.5,1.5 0,458.8679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 1.5,1.5 Z"
+       style="fill:url(#radialGradient3236) #000000;fill-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer4">
+    <path
+       id="path3239"
+       d="m 1.5,1.5 0,458.86794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 1.5,1.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0 0 100 112.5">
+  <title>Wappen von Elfingen</title>
+  <desc>Wappen der Schweizer Gemeinde Elfingen, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
+  <g stroke="black" stroke-width="1">
+    <path d="M 55.5,6 c -1.5,2 -1.5,4 -1.5,6 V 23 H 65 c 2,0 4,0 6,-1 V 32 c -2,-1 -4,-1 -6,-1 H 54 V 43.5 H 73 c 2,0 4,0 6,-1 V 52.5 c -2,-1 -4,-1 -6,-1 H 54 V 90 h -8 V 51.5 H 27 c -2,0 -4,0 -6,1 V 42.5 c 2,1 4,1 6,1 H 46 V 31 H 35 c -2,0 -4,0 -6,1 V 22 c 2,1 4,1 6,1 H 46 V 12 c 0,-2 0,-4 -1.5,-6 z" fill="white" />
+    <path d="M 35.5,112 v -2.3 A 9 9 0 1 1 41.2,93.8 9 9 0 1 1 58.8,93.8 9 9 0 1 1 64.5,109.7 v 2.3" fill="#009944" clip-path="url(#cpSchild)" />
+  </g>
+</svg>

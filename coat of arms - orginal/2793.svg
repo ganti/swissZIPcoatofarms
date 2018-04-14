@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 3500 4080">
+  <title>Wappen von Zwingen</title>
+  <desc>Wappen der Schweizer Gemeinde Zwingen, Kanton Baselland</desc>
+  <path d="M 0,0 H 3500 V 2330 A 1750 1750 0 0 1 0,2330 z" />
+  <path d="M 100,100 H 3400 V 2330 A 1650 1650 0 0 1 100,2330 z" stroke="white" stroke-width="40" fill="none" />
+  <use xlink:href="#zepter" transform="matrix(-1,0,0,1,3500,0)" />
+  <g id="zepter" transform="matrix(0.81,-0.65,0.65,0.81,259,288)">
+    <path d="M 0,0 C 43,137 160,222 279,298 405,378 404,527 329,616 250,710 58,745 78,1380 H 97 c -7,-384 32,-480 142,-606 116,-133 314,-125 437,-28 147,117 158,300 53,454 -59,89 -182,164 -121,297 -323,-99 -31,-251 -191,-364 -116,-82 -203,79 -206,245 H -251 C -214,1212 -301,1051 -417,1133 -577,1246 -285,1398 -608,1497 -547,1364 -670,1289 -729,1200 -834,1046 -823,863 -676,746 -553,649 -355,641 -239,774 -129,900 -90,996 -97,1380 h 19 C -58,745 -250,710 -329,616 -404,527 -405,378 -279,298 -160,222 -43,137 0,0" fill="white" />
+    <path d="M 175,1378 L 251,3817 c 4,139 -506,139 -502,0 L -175,1378" stroke="black" stroke-width="40" fill="white" />
+    <rect x="-360" y="1320" width="720" height="210" ry="105" stroke="black" stroke-width="20" fill="white" />
+    <rect x="-300" y="1530" width="600" height="210" ry="105" stroke="black" stroke-width="20" fill="white" />
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Buckten</title>
+  <desc>Wappen der Schweizer Gemeinde Buckten, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" stroke="black" stroke-width="9" fill="#ffd400" />
+  <path d="M 0,0 H 540 V 295 H 0" />
+  <circle cx="270" cy="448" r="132" stroke="black" stroke-width="9" fill="#ffd400" />
+  <circle cx="270" cy="448" r="123" />
+  <circle cx="270" cy="448" r="31" fill="#ffd400" />
+  <circle cx="270" cy="448" r="21" stroke="black" stroke-width="11" fill="none" />
+  <g fill="#ffd400">
+    <g id="speichen4">
+      <g id="speichen2">
+        <path id="speichen" d="M 282,387 a 13,13 0 0,0 22.6,9.4 L 326,375 A 92,92 0 0,0 282,356.6" />
+        <use xlink:href="#speichen" transform="rotate(45,270,448)" />
+      </g>
+      <use xlink:href="#speichen2" transform="rotate(90,270,448)" />
+    </g>
+    <use xlink:href="#speichen4" transform="rotate(180,270,448)" />
+    <g stroke="black" stroke-width="4">
+      <path d="M 354,165 a 66,66 0 0,0 -66,-66 64,66 0 0,0 -64,66 65,73 0 0,0 65,73 c 55,0 85,-13 108,-49 22,-34 50,-78 53,-102 l 45,36 c -28,9 -64,66 -89,97 -39,45 -65,55 -117,55 A 98,110 0 0,1 187,165 101,102 0 0,1 288,63 103,102 0 0,1 391,165" />
+      <path d="M 288,99 a 66,66 0 0,1 66,66 75,72 0 0,1 -75,72 103,144 0 0,1 -99,-179 L 50,172 c 49,-2 74,18 108,48 31,27 67,57 117,57 A 116,112 0 0,0 391,165 103,102 0 0,0 288,63 M 187,52 A 11,11 41 0,0 172,36 L 29,161 a 11,11 41 0,0 15,16 z M 454,67 A 9,9 -39 0,0 443,81 l 59,48 a 9,9 -39 0,0 11,-14 z" />
+    </g>
+  </g>
+</svg>
+

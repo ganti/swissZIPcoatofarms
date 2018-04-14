@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="259.04523"
+   height="303.43109"
+   id="svg2780">
+  <defs
+     id="defs2782" />
+  <g
+     transform="translate(-4.4277432,-797.31169)"
+     id="layer1">
+    <path
+       d="M 5.4277432,798.31169 L 10.101288,994.59242 C 13.439525,1134.7929 254.46118,1134.7929 257.79942,994.59242 L 262.47297,798.31169 L 5.4277432,798.31169 z"
+       id="path3282"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="matrix(1.1379931,0,0,1.1379931,-31.352811,-111.99103)"
+       id="g4366"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 157.83683,874.75574 C 174.80108,872.46923 166.92329,859.64063 172.41245,859.64063 C 177.777,859.64063 187.69256,864.73429 187.69256,875.19683 C 187.69256,885.53469 180.73939,889.50733 176.2409,889.50733 C 171.61773,889.50733 170.54068,883.74016 172.15862,881.05501 C 167.78005,882.58127 163.67113,884.27303 163.58726,891.74467 C 163.48692,900.83244 179.14491,905.04133 185.11926,896.28605 C 191.19125,887.38769 192.05612,882.61744 192.18986,873.41918 C 192.32361,864.2195 187.69342,847.30485 176.3315,841.11331 C 165.0656,834.97409 152.09679,838.29109 152.09679,850.8599 C 152.09679,863.30401 161.7425,868.48807 157.83683,874.75574 z"
+         id="path10061"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="M 196.2142,919.6349 C 214.92823,906.25486 198.25351,895.33576 198.25351,875.19683 C 198.25351,853.73987 219.49399,828.2187 196.2142,811.93323 C 172.93441,828.2187 194.17489,853.73987 194.17489,875.19683 C 194.17489,895.33576 177.50017,906.25486 196.2142,919.6349 z"
+         id="path9090"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <use
+         transform="matrix(-1,0,0,1,392.4284,0)"
+         id="use4352"
+         style="fill:#000000;fill-opacity:1"
+         x="0"
+         y="0"
+         width="248.03149"
+         height="248.03149"
+         xlink:href="#path10061" />
+      <rect
+         width="31.843252"
+         height="8.3518343"
+         ry="4.1759171"
+         x="180.29257"
+         y="872.70905"
+         id="rect4354"
+         style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.87874007px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <use
+       transform="translate(-118.63809,134.07959)"
+       id="use4372"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#g4366" />
+    <path
+       d="M 5.4375,-6.03125 L 5.875,12.875 L 25.8125,76.625 L 56.90625,66.90625 L 77.09375,131.5625 L 108.15625,121.84375 L 128.34375,186.4375 L 159.40625,176.75 L 179.59375,241.375 L 210.6875,231.65625 L 221.5625,266.4375 C 232.5271,257.41334 241.60059,246.27064 247.9375,233.03125 L 234.53125,190.125 L 203.46875,199.84375 L 183.28125,135.1875 L 152.1875,144.90625 L 132,80.3125 L 100.9375,90 L 80.75,25.375 L 49.65625,35.09375 L 36.8125,-6.03125 L 5.4375,-6.03125 z"
+       transform="translate(0,804.33069)"
+       id="rect4376"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

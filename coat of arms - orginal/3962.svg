@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   id="svg4866">
+  <title
+     id="title4870">
+Wappen Schiers (CH-GR)
+</title>
+  <metadata
+     id="metadata4868">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="de"
+         dc:format="image/svg+xml"
+         dc:date="2006-10-26"
+         dc:title="Wappen Schiers (CH-GR)">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+Wappen Schiers (CH-GR)
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4872">
+    <clipPath
+       id="clippath">
+      <path
+         d="m 360,4140 a 3240,3240 0 0 0 6480,0 l 0,-3870 -6480,0 0,3870 z"
+         id="path4875" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style4877" />
+  </defs>
+  <g
+     id="g4902">
+    <g
+       transform="scale(0.066667,0.066667)"
+       clip-path="url(#clippath)"
+       id="g4881"
+       style="fill:none;stroke:none">
+      <path
+         d="m -225,-225 0,7650 7650,0 0,-7650 -7650,0 z"
+         id="feld-1"
+         style="fill:#0000ff" />
+      <path
+         d="m -225,2970 0,1260 7650,0 0,-1260 -7650,0 z"
+         id="kreuz-1"
+         style="fill:#ffef00" />
+      <path
+         d="m 2970,-225 0,7650 1260,0 0,-7650 -1260,0 z"
+         id="kreuz-2"
+         style="fill:#ffef00" />
+      <path
+         d="m 2970,-225 0,3195 -3195,0"
+         id="linie-1"
+         style="stroke:#202020;stroke-width:45" />
+      <path
+         d="m 4230,-225 0,3195 3195,0"
+         id="linie-2"
+         style="stroke:#202020;stroke-width:45" />
+      <path
+         d="m -225,4230 3195,0 0,3195"
+         id="linie-3"
+         style="stroke:#202020;stroke-width:45" />
+      <path
+         d="m 7425,4230 -3195,0 0,3195"
+         id="linie-4"
+         style="stroke:#202020;stroke-width:45" />
+    </g>
+    <path
+       d="m 24.00012,276.00138 a 216.00108,216.00108 0 0 0 432.00216,0 l 0,-258.00129 -432.00216,0 0,258.00129 z"
+       id="clip-boundary"
+       style="fill:none;stroke:#202020;stroke-width:6.00003004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
+  </g>
+</svg>

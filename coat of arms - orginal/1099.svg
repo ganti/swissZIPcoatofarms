@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Schenkon</title>
+  <desc>Wappen der Schweizer Gemeinde Schenkon, Kanton Luzern</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 V 62.5 a 48,48 0 0,0 96,0 V 2 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="#e2001a" />
+  <path d="M 0,0 H 42.2 v 15.6 h 15.6 v 15.6 H 42.2 v 15.6 h 15.6 v 15.6 H 42.2 v 15.6 h 15.6 v 15.6 H 42.2 V 112 H 0" stroke="black" stroke-width="1" fill="white" clip-path="url(#cpSchild)" />
+</svg>

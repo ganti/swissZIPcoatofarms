@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="603"
+   height="763"
+   id="svg20">
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:white;stop-opacity:0.3137255"
+         offset="0"
+         id="stop2895" />
+      <stop
+         style="stop-color:white;stop-opacity:0.25098041"
+         offset="0.19"
+         id="stop2897" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:black;stop-opacity:0.1254902"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <radialGradient
+       cx="868.3302"
+       cy="550.32794"
+       r="300"
+       fx="868.3302"
+       fy="550.32794"
+       id="radialGradient3236"
+       xlink:href="#linearGradient2893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,0,0,1.266667,-839.1924,-490.4894)" />
+  </defs>
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     style="display:inline"
+     id="layer1">
+    <path
+       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z "
+       style="fill:#fcef3c;fill-opacity:1"
+       id="path1899" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer2">
+    <path
+       d="M 445.58008 229.49609 A 129.65039 129.65039 0 1 1  186.2793,229.49609 A 129.65039 129.65039 0 1 1  445.58008 229.49609 z"
+       transform="translate(-16.35145,-14.71586)"
+       style="opacity:0.8;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3671" />
+    <path
+       d="M 299.68386,672.65612 C 246.97627,670.2324 193.91584,685.61689 121.63784,620.98668 C 67.267412,544.52392 141.09709,473.9188 227.41966,525.00957 L 299.68386,672.65612 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.23491156px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path11722" />
+    <path
+       d="M 300.76604,761.00312 C 230.95956,765.36894 150.4171,728.55005 98.481402,681.75592 C 97.640835,675.57839 97.639899,669.6618 98.366602,664.051 C 105.75503,607.00518 188.36,581.57125 228.48519,634.92874 L 300.76604,761.00312 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.14126801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path9000" />
+    <path
+       d="M 301.08427,673.14335 C 353.79186,670.71963 406.85229,686.10412 479.13028,621.47391 C 533.50071,545.01115 459.67103,474.40603 373.34847,525.4968 L 301.08427,673.14335 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.23491156px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path11728" />
+    <path
+       d="M 299.95118,761.00312 C 369.75766,765.36894 453.61468,729.10249 503.8931,682.30835 C 511.07006,611.57814 412.43679,576.25102 373.88931,633.82389 L 299.95118,761.00312 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.14126801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path11657" />
+    <path
+       d="M 299.9067,672.94487 C 283.02005,637.64624 234.2464,590.77933 227.41966,525.27594 C 221.44295,485.70105 261.50407,470.48376 299.64562,469.54177 C 340.38979,471.7055 376.40081,485.21194 373.02408,525.27594 C 365.44761,591.34468 314.66649,636.49824 299.9067,672.94487 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.23491156px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path11726" />
+    <path
+       d="M 300.98894,761.24968 C 284.09839,731.10842 235.3135,691.08909 228.48519,635.15619 C 222.5071,601.36347 262.57746,588.36953 300.7278,587.56517 C 341.48136,589.41276 377.50067,600.94582 374.12317,635.15619 C 366.54495,691.57184 315.75213,730.12815 300.98894,761.24968 z "
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.14126801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       id="path4571" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer3">
+    <path
+       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       id="path2346" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer4">
+    <path
+       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z "
+       style="fill:none;fill-opacity:1;stroke:black;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3239" />
+  </g>
+</svg>

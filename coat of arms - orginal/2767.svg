@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0 0 540 620">
+  <title>Wappen von Bottmingen</title>
+  <desc>Wappen der Schweizer Gemeinde Bottmingen, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z" stroke="black" stroke-width="9" fill="#e2001a" />
+  <path d="M -27,192 C -62,185 -84,160 -84,127 C -84,87 -59,73 -43,58 C 0,19 -18,0 0,0 C 18,0 0,19 43,58 C 59,73 84,87 84,127 C 84,160 62,185 27,192 L 84,596 L 29,515 L 0,618 L -29,515 L -84,596 z"
+        id="kolben" stroke="black" stroke-width="4" stroke-miterlimit="5" fill="white" transform="translate(510,45) rotate(44)" />
+  <use xlink:href="#kolben" transform="matrix(-1,0,0,1,540,0)" />
+</svg>

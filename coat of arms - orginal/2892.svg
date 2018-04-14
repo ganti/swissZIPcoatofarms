@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Oberdorf</title>
+  <desc>Wappen der Schweizer Gemeinde Oberdorf, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" stroke="black" stroke-width="9" fill="white" />
+  <g stroke="black" stroke-width="4" fill="#0056ad" clip-path="url(#cpSchild)">
+    <path d="M 540,0 V 620 H -80 z M 247,293 V 30 h 46 V 247 z M 247,30 H 226 V 62 H 204 V 30 H 47 V 62 h 74 v 20 a 11,11 0 0,1 -22,0 H 47 v 36 H 148 V 62 h 25 v 56 h 53 v 25 H 173 v 63 H 148 V 143 H 47 v 37 h 52 a 11,11 0 0,1 22,0 v 26 H 47 v 34 H 204 V 206 h 22 v 34 h 21 z" />
+    <path d="M 247,293 v 36 h -8 a 12,12 0 0,0 0,24 h 8 v 12 H 230 v 13 a 95,105 0 0,0 -90,76 13,13 0 0,0 -23,10 16,16 0 0,0 0,32 13,13 0 0,0 23,10 110,90 0 0,0 110,80 v 14 h 40 V 586 A 110,90 0 0,0 400,506 13,13 0 0,0 423,496 16,16 0 0,0 423,464 13,13 0 0,0 400,454 95,105 0 0,0 310,378 V 365 H 293 V 353 h 8 a 12,12 0 0,0 0,-24 h -8 V 247 z M 256,548 c -3,3 -7,5 -16,5 -29,0 -70,-27 -70,-57 a 16,16 0 0,0 0,-32 c 0,-18 26,-55 70,-55 9,0 13,2 16,5 a 68,68 0 0,0 0,134 z m 28,0 a 68,68 0 0,0 0,-134 c 3,-3 7,-5 16,-5 44,0 70,37 70,55 a 16,16 0 0,0 0,32 c 0,30 -41,57 -70,57 -9,0 -13,-2 -16,-5 z M 270,443 a 38,38 0 0,1 0,76 38,38 0 0,1 0,-76" fill="white" />
+  </g>
+</svg>
+

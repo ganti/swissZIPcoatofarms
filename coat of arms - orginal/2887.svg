@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="540" height="620" viewBox="0 0 540 620">
+  <title>Wappen von Lampenberg</title>
+  <desc>Wappen der Schweizer Gemeinde Lampenberg, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z" stroke="black" stroke-width="9" fill="#e2001a" />
+  <path d="M 298,502 c 33,-7 56,-15 82,-38 40,-9 83,-41 122,-80 -33,-145 -134,-300 -232,-360 -98,60 -199,215 -232,360 39,39 82,71 122,80 26,23 49,31 82,38 M 298,505 v -5 c 36,-24 58,-65 58,-107 0,-58 -37,-117 -86,-157 -49,40 -86,99 -86,157 0,42 22,83 58,107 v 5 M 160,464 v 93 c 26,23 49,31 82,32 V 502 527 c 22,-11 34,-11 56,0 V 502 589 c 33,-1 56,-9 82,-32 V 464" stroke="black" stroke-width="4" fill="white" />
+</svg>

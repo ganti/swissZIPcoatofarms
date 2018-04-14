@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="480">
+<defs>
+<pattern id="p" width="438" height="480" patternUnits="userSpaceOnUse">
+<path d="M0,0H438V480H0" fill="#fff"/>
+<g stroke="#202020" stroke-width="3">
+<path d="M0,0H438V94H0M0,190H438v90H0M0,374H438v110H0" fill="#00f"/>
+<path d="M0,0H219V480H0" fill="#f00"/>
+</g>
+</pattern>
+</defs>
+<path d="m3,3h432v258C428,548 7,548 3,258z" fill="url(#p)" stroke="#202020" stroke-width="6"/>
+</svg>

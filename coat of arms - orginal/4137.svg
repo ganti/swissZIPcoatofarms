@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Leimbach</title>
+  <desc>Wappen der Schweizer Gemeinde Leimbach, Kanton Aargau</desc>
+  <!-- Blau=#0093dd  Gelb=#fcdb00  Grün=#009944  Rot=#f00000 -->
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
+  <g stroke="black" stroke-width="1" fill="white" clip-path="url(#cpSchild)">
+    <path d="M 21.8,18.7 26,8.5 30.2,18.7 41.2,17.2 34.4,26 41.2,34.8 30.2,33.3 26,43.5 21.8,33.3 10.8,34.8 17.6,26 10.8,17.2 z" />
+    <path d="M 0,3 C 7.75,3 9,0 16.75,0 s 9,3 16.75,3 9,-3 16.75,-3 9,3 16.75,3 9,-3 16.75,-3 9,3 16.75,3 9,-3 16.75,-3 9,3 16.75,3 l 20,12 -20,12.5 c -7.75,0 -9,-3 -16.75,-3 s -9,3 -16.75,3 -9,-3 -16.75,-3 -9,3 -16.75,3 -9,-3 -16.75,-3 -9,3 -16.75,3 -9,-3 -16.75,-3 -9,3 -16.75,3" transform="translate(-9,90) rotate(-45)" />
+  </g>
+</svg>

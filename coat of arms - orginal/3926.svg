@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   id="svg3046">
+  <title
+     id="title3050">
+Wappen Maladers (CH-GR)
+</title>
+  <metadata
+     id="metadata3048">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="de"
+         dc:format="image/svg+xml"
+         dc:date="2006-11-29"
+         dc:title="Wappen Maladers (CH-GR)">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+Wappen Maladers (CH-GR)
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3052">
+    <clipPath
+       id="clippath">
+      <path
+         d="m 360,4140 a 3240,3240 0 0 0 6480,0 l 0,-3870 -6480,0 0,3870 z"
+         id="path3055" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style3057" />
+  </defs>
+  <g
+     id="g3080">
+    <g
+       transform="scale(0.066667,0.066667)"
+       clip-path="url(#clippath)"
+       id="g3061"
+       style="fill:none;stroke:none">
+      <path
+         d="m -225,-225 0,7650 7650,0 0,-7650 -7650,0 z"
+         id="feld-1"
+         style="fill:#ffef00" />
+      <path
+         d="m 5445,2745 225,2205 0,495 720,45 L 6210,5040 5715,1935 3600,4005 1485,1935 990,5040 l -180,450 720,-45 0,-495 225,-2205 1845,1710 1845,-1710 z"
+         id="buchstabeM-1"
+         style="fill:#0000ff;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 3510,4680 c -120,195 -240,390 -412,600 -173,210 -398,435 -473,645 -75,210 0,405 113,525 112,120 262,165 412,128 150,-38 300,-158 450,-158 150,0 300,120 450,158 150,37 300,-8 412,-128 113,-120 188,-315 113,-525 -75,-210 -300,-435 -473,-645 -172,-210 -292,-405 -412,-600"
+         id="feder-1"
+         style="fill:#0000ff;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 3450,6840 60,0 90,-90 90,90 60,0 -30,-4500 -240,0 -30,4500 z"
+         id="schaft-1"
+         style="fill:#0000ff;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 3420,2340 360,0 -45,-990 225,270 315,270 405,180 -180,-180 -540,-720 -270,-450 -90,-270 -90,270 -270,450 -540,720 -180,180 405,-180 315,-270 225,-270 -45,990 z"
+         id="spitze-1"
+         style="fill:#0000ff;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 3645,2160 a 45,45 0 0 0 -90,0 45,45 0 0 0 90,0 z"
+         id="knopf-1"
+         style="fill:#000000" />
+    </g>
+    <path
+       d="m 24.00012,276.00138 a 216.00108,216.00108 0 0 0 432.00216,0 l 0,-258.00129 -432.00216,0 0,258.00129 z"
+       id="clip-boundary"
+       style="fill:none;stroke:#202020;stroke-width:6.00003004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
+  </g>
+</svg>

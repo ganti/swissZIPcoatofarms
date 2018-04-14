@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Teufenthal</title>
+  <desc>Wappen der Schweizer Gemeinde Teufenthal, Kanton Aargau</desc>
+  <g stroke="black" stroke-width="1" fill="#fcdb00">
+    <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke-width="2" />
+    <path d="M 2,2 L 50,109.5 98,2" fill="#0093dd" />
+    <path d="M 30.8,21.9 a 25.5,24.5 0 0,0 -6.3,16.1 25.5,25.5 0 0,0 51,0 25.5,24.5 0 0,0 -6.3,-16.1 21.5,22.5 0 0,1 2.3,10.1 21.5,21.5 0 0,1 -43,0 21.5,22.5 0 0,1 2.3,-10.1 z M 33,16.5 l 13,0 4,-12.3 4,12.3 13,0 -10.5,7.7 4,12.3 -10.5,-7.6 -10.5,7.6 4,-12. z" stroke-miterlimit="7" />
+  </g>
+</svg>
+

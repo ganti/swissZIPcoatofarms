@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="226.57227"
+   height="265.39407"
+   id="svg2780">
+  <defs
+     id="defs2782" />
+  <g
+     transform="translate(150.47474,-803.39861)"
+     id="layer1">
+    <path
+       d="M -149.47474,804.39861 L -145.39161,975.91104 C -142.4751,1098.4199 68.097876,1098.4199 71.014399,975.91104 L 75.097527,804.39861 L -149.47474,804.39861 z"
+       id="path3282"
+       style="fill:#fae43f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M -149.46875,0.0625 L -147.96875,63.15625 L 32.3125,243.4375 C 54.725709,228.19062 70.22274,204.24264 71,171.59375 L 71.1875,164.28125 L -93.03125,0.0625 L -149.46875,0.0625 z"
+       transform="translate(0,804.33069)"
+       id="path5981"
+       style="opacity:1;color:#000000;fill:#c83221;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="M 52.53125,145.65625 L -0.84375,151.8125 L -6.875,204.25 L 11.53125,222.65625 L 17.5625,170.21875 L 70.9375,164.0625 L 52.53125,145.65625 z"
+       transform="translate(0,804.33069)"
+       id="path5969"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <use
+       transform="translate(-38.751793,-38.751794)"
+       id="use6329"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#path5969" />
+    <use
+       transform="translate(-77.503587,-77.503587)"
+       id="use6331"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#path5969" />
+    <use
+       transform="translate(-116.25538,-116.25538)"
+       id="use6333"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#path5969" />
+    <path
+       d="M -149.47474,804.39861 L -145.39161,975.91104 C -142.4751,1098.4199 68.097876,1098.4199 71.014399,975.91104 L 75.097527,804.39861 L -149.47474,804.39861 z"
+       id="path6342"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

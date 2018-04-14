@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Gelterkinden</title>
+  <desc>Wappen der Schweizer Gemeinde Gelterkinden, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="9">
+    <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" fill="white" />
+    <g clip-path="url(#cpSchild)">
+      <path d="M 4.5,0 V 620 h 177 V 0" fill="#0056ad" />
+      <path d="M 358.5,0 V 620 h 177 V 0" fill="#e2001a" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="223.67592"
+   height="262.00156"
+   id="svg2780">
+  <defs
+     id="defs2782" />
+  <g
+     transform="translate(-10.341054,-793.55658)"
+     id="layer1">
+    <path
+       d="M 11.341054,794.55659 L 15.371521,963.85989 C 18.250418,1084.7909 226.1076,1084.7909 228.98651,963.85989 L 233.01697,794.55659 L 11.341054,794.55659 z"
+       id="path3282"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 50.241511,820.45569 L 122.17901,892.42444 L 194.11651,820.45569 L 159.17901,820.45569 L 122.17901,857.48694 L 85.179011,820.45569 L 50.241511,820.45569 z"
+       id="rect5682"
+       style="color:#000000;fill:#c63921;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <use
+       transform="translate(0,71.661914)"
+       id="use5688"
+       style="fill:#b20f18;fill-opacity:1"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#rect5682" />
+    <use
+       transform="translate(0,143.32382)"
+       id="use5690"
+       style="fill:#b20f18;fill-opacity:1"
+       x="0"
+       y="0"
+       width="248.03149"
+       height="248.03149"
+       xlink:href="#rect5682" />
+  </g>
+</svg>

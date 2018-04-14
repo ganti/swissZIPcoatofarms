@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0 0 540 620">
+  <title>Wappen von Wintersingen</title>
+  <desc>Wappen der Schweizer Gemeinde Wintersingen, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z" stroke="black" stroke-width="9" fill="#e2001a" />
+  <g stroke="black" stroke-width="4" fill="white" stroke-linejoin="round">
+    <path d="M 383,224 c -7,30 3,89 34,122 11,13 31,27 48,12 12,-11 8,-36 2,-42 6,6 30,12 43,1 16,-16 3,-37 -8,-49 -31,-33 -88,-48 -119,-44 M 289,327 c -7,39 9,116 50,162 15,17 41,37 62,18 16,-14 9,-47 2,-55 7,8 39,19 55,4 20,-18 3,-47 -13,-64 -40,-45 -116,-69 -156,-65 M 201,435 c -7,30 3,89 34,122 11,13 31,28 48,12 12,-11 8,-36 2,-42 6,6 30,13 43,1 16,-15 4,-36 -8,-49 -30,-33 -88,-48 -119,-44" />
+    <path d="M 275,137 l 209,225 C 491,370 504,370 512,363 520,356 520,343 513,335 l -209,-225 41,7 c -37,-40 -72,-68 -129,-73 1,57 26,94 63,134 z M 104,151 l 323,358 C 434,517 447,517 455,510 463,503 463,490 456,482 l -322,-358 54,9 C 146,86 96,54 34,44 38,106 64,159 107,206 z M 83,335 l 213,234 C 303,577 316,578 324,570 333,563 333,550 326,542 l -214,-234 42,7 C 116,274 82,246 25,241 24,299 49,336 86,377 z" />
+  </g>
+</svg>

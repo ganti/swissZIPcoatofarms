@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="400" height="450" viewBox="0 0 100 112.5">
+  <title>Wappen von Böttstein</title>
+  <desc>Wappen der Schweizer Gemeinde Böttstein, Kanton Aargau</desc>
+  <defs>
+    <pattern id="gitter1" patternUnits="userSpaceOnUse" x="24" y="9.5" width="17.75" height="17.75">
+      <path d="M 0,7.25 L 7.25,0 14.5,7.25 7.25,14.5 z" fill="#fcdb00" />
+    </pattern>
+    <pattern id="gitter2" patternUnits="userSpaceOnUse" x="14.2" y="17.45" width="35.5" height="35.5">
+      <path d="M 25,0 l 9.1,9.1 -25,25 -9.1,-9.1 z" fill="#f00000" />
+    </pattern>
+    <pattern id="gitter3" patternUnits="userSpaceOnUse" x="-3.52" y="-.3" width="35.5" height="35.5">
+      <path d="M 9.1,0 l 25,25 -9.1,9.1 -25,-25 z" fill="#f00000" />
+    </pattern>
+  </defs>
+  <path d="M 0,0 H 100 V 62.5 A 50 50 0 0 1 0,62.5 z" />
+  <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" fill="url(#gitter1)" />
+  <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" fill="url(#gitter2)" />
+  <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" fill="url(#gitter3)" />
+  <path d="M 2,2 H 4 V 4 H 2" fill="#f00000" />
+</svg>

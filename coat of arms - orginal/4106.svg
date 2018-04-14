@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Mönthal</title>
+  <desc>Wappen der Schweizer Gemeinde Mönthal, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="1" fill="#fcdb00">
+    <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke-width="2" fill="#0093dd" />
+    <path d="M -10,126 L 20,45 L 35,85.5 L 50,45 L 65,85.5 L 80,45 L 110,126" clip-path="url(#cpSchild)" />
+    <path id="stern" d="M 46.5,19 L 50,10 53.5,19 63,17.5 57,25 63,32.5 53.5,31 50,40 46.5,31 37,32.5 43,25 37,17.5 z" />
+    <use x="-30" xlink:href="#stern" />
+    <use x="30" xlink:href="#stern" />
+  </g>
+</svg>

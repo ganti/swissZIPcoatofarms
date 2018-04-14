@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   id="svg3187">
+  <title
+     id="title3191">
+Wappen Maienfeld (CH-GR)
+</title>
+  <metadata
+     id="metadata3189">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="de"
+         dc:format="image/svg+xml"
+         dc:date="2006-10-26"
+         dc:title="Wappen Maienfeld (CH-GR)">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+Wappen Maienfeld (CH-GR)
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3193">
+    <clipPath
+       id="clippath">
+      <path
+         d="m 360,4140 a 3240,3240 0 0 0 6480,0 l 0,-3870 -6480,0 0,3870 z"
+         id="path3196" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style3198" />
+  </defs>
+  <g
+     id="g3217">
+    <g
+       transform="scale(0.066667,0.066667)"
+       clip-path="url(#clippath)"
+       id="g3202"
+       style="fill:none;stroke:none">
+      <path
+         d="m -225,-225 0,7650 7650,0 0,-7650 -7650,0 z"
+         id="feld-1"
+         style="fill:#0000ff" />
+      <path
+         d="m 5220,630 -360,996 -1042,-186 682,810 -682,810 1042,-186 360,996 360,-996 1042,186 -682,-810 682,-810 -1042,186 -360,-996 z"
+         id="stern-1"
+         style="fill:#ffef00;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 1980,630 -360,996 -1042,-186 682,810 -682,810 1042,-186 360,996 360,-996 1042,186 -682,-810 682,-810 -1042,186 -360,-996 z"
+         id="stern-2"
+         style="fill:#ffef00;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 3600,3420 -360,996 -1042,-186 682,810 -682,810 1042,-186 360,996 360,-996 1042,186 -682,-810 682,-810 -1042,186 -360,-996 z"
+         id="stern-3"
+         style="fill:#ffef00;stroke:#202020;stroke-width:30" />
+    </g>
+    <path
+       d="m 24.00012,276.00138 a 216.00108,216.00108 0 0 0 432.00216,0 l 0,-258.00129 -432.00216,0 0,258.00129 z"
+       id="clip-boundary"
+       style="fill:none;stroke:#202020;stroke-width:6.00003004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
+  </g>
+</svg>

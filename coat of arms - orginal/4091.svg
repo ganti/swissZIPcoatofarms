@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Auenstein</title>
+  <desc>Wappen der Schweizer Gemeinde Auenstein, Kanton Aargau</desc>
+  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="white" />
+  <path d="M 50,1.5 H 1.5 V 62.5 A 48.5,48.5 0 0,0 50,111 z" stroke="black" stroke-width="1" fill="#f00000" />
+  <g id="rose" stroke="black" stroke-width="1">
+    <path d="M 14.525,10.825 A 17,13 0 0,0 39.475,10.825 17,13 72 0,0 47.185,34.558 17,13 144 0,0 27,49.225 17,13 216 0,0 6.815,34.558 17,13 288 0,0 14.525,10.825 z" stroke-miterlimit="5" fill="#009944" />
+    <g id="blatt">
+      <path d="M 27,23.8 c 2,0 7,-4.2 7,-7.8 0,-3.5 -2.5,-5.2 -7,-5.2 -4.5,0 -7,1.7 -7,5.2 0,3.6 5,7.8 7,7.8 z M 34,16 c 0,-3 -2.3,-3.2 -3.3,-3.2 -1.8,0 -1.8,0.9 -3.7,0.9 -1.9,0 -1.9,-0.9 -3.7,-0.9 -1,0 -3.3,0.2 -3.3,3.2" fill="white" />
+      <path d="M 24.6,23 L 27,13.7 m 0,0 L 29.4,23" stroke-width="0.5" />
+    </g>
+    <g id="blatt2">
+      <use transform="rotate(72,27,28)" xlink:href="#blatt" />
+      <use transform="rotate(144,27,28)" xlink:href="#blatt" />
+    </g>
+    <use transform="rotate(144,27,28)" xlink:href="#blatt2" />
+    <circle cx="27" cy="28" r="4" fill="#fcdb00" />
+  </g>
+  <use y="43" xlink:href="#rose" />
+</svg>
+

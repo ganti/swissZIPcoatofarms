@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   id="svg21534">
+  <title
+     id="title21538">
+Wappen Trin (CH-GR)
+</title>
+  <metadata
+     id="metadata21536">
+    <rdf:RDF>
+      <rdf:Description
+         dc:language="de"
+         dc:format="image/svg+xml"
+         dc:date="2006-10-28"
+         dc:title="Wappen Trin (CH-GR)">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+Wappen Trin (CH-GR)
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21540">
+    <clipPath
+       id="clippath">
+      <path
+         d="m 360,4140 a 3240,3240 0 0 0 6480,0 l 0,-3870 -6480,0 0,3870 z"
+         id="path21543" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style21545" />
+  </defs>
+  <g
+     id="g21596">
+    <g
+       transform="scale(0.066667,0.066667)"
+       clip-path="url(#clippath)"
+       id="g21549"
+       style="fill:none;stroke:none">
+      <path
+         d="m -225,-225 0,7650 7650,0 0,-7650 -7650,0 z"
+         id="feld-1"
+         style="fill:#ffef00" />
+      <path
+         d="m 4500,5220 a 900,900 0 0 0 -1800,0 l 0,1260 -1080,0 0,-3780 270,0 0,540 360,0 0,-540 270,0 0,1170 630,0 0,-1710 270,0 0,540 360,0 0,-540 270,0 0,1710 630,0 0,-1170 270,0 0,540 360,0 0,-540 270,0 0,3780 -1080,0 0,-1260 z"
+         id="burg-1"
+         style="fill:#000000;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 2790,540 -134,396 -412,-80 276,314 -276,316 412,-82 134,396 136,-396 410,82 -276,-316 276,-314 -410,80 -136,-396 z"
+         id="stern-1"
+         style="fill:#ff0000;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 4410,540 -134,396 -412,-80 276,314 -276,316 412,-82 134,396 136,-396 410,82 -276,-316 276,-314 -410,80 -136,-396 z"
+         id="stern-2"
+         style="fill:#ff0000;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 1260,1080 -134,396 -412,-80 276,314 -276,316 412,-82 134,396 136,-396 410,82 -276,-316 276,-314 -410,80 -136,-396 z"
+         id="stern-3"
+         style="fill:#ff0000;stroke:#202020;stroke-width:30" />
+      <path
+         d="m 5940,1080 -134,396 -412,-80 276,314 -276,316 412,-82 134,396 136,-396 410,82 -276,-316 276,-314 -410,80 -136,-396 z"
+         id="stern-4"
+         style="fill:#ff0000;stroke:#202020;stroke-width:30" />
+    </g>
+    <path
+       d="m 24.00012,276.00138 a 216.00108,216.00108 0 0 0 432.00216,0 l 0,-258.00129 -432.00216,0 0,258.00129 z"
+       id="clip-boundary"
+       style="fill:none;stroke:#202020;stroke-width:6.00003004;stroke-miterlimit:10" />
+  </g>
+</svg>

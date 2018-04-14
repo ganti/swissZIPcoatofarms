@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="City of Fribourg-coat_of_arms.svg"
+   sodipodi:docbase="C:\Documents and Settings\Chris Nendick\My Documents\My Pictures\Inkscape work\Blazons">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date></dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:language></dc:language>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:#ffffff;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="0"
+         id="stop2965" />
+      <stop
+         style="stop-color:black;stop-opacity:0.64583331;"
+         offset="1"
+         id="stop2959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       cx="858.04236"
+       cy="579.93323"
+       fx="858.04236"
+       fy="579.93323"
+       r="300" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject2034">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="808"
+     inkscape:window-width="1152"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.84010485"
+     inkscape:cx="325.17774"
+     inkscape:cy="381.5"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="opacity:1">
+    <path
+       id="path1899"
+       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z "
+       style="fill:#2b5df2;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="opacity:1">
+    <g
+       id="g14064">
+      <path
+         d="M 410.5769,471.60677 C 410.5769,531.81721 361.71046,580.68367 301.5,580.68367 C 241.28955,580.68367 192.4231,531.81721 192.4231,471.60677 C 192.4231,411.39631 241.28955,362.52986 301.5,362.52986 C 361.71046,362.52986 410.5769,411.39631 410.5769,471.60677 z M 381.28381,471.60685 C 381.28381,515.64748 345.54069,551.39061 301.50005,551.39061 C 257.4594,551.39061 221.71628,515.64748 221.71628,471.60685 C 221.71628,427.56621 257.4594,391.82308 301.50005,391.82308 C 345.54069,391.82308 381.28381,427.56621 381.28381,471.60685 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.50214124;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         id="path14055" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="polygon2041"
+         d="M 126.349,205.295 L 126.349,470.732 L 238.307,470.732 L 238.307,205.295 L 126.349,205.295 z "
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+      <polygon
+         transform="translate(1.5,-38.5)"
+         id="polygon2043"
+         points="331.953,319.777 331.953,354.949 316.622,354.949 316.622,319.777 283.349,319.777 283.349,354.949 268.018,354.949 268.018,319.777 236.807,319.777 236.807,509.232 363.164,509.232 363.164,319.777 331.953,319.777 "
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <polygon
+         transform="translate(1.5,-38.5)"
+         id="polygon2045"
+         points="448.035,366.32 448.035,394.92 434.346,394.92 434.346,366.32 403.941,366.32 403.941,394.92 390.252,394.92 390.252,366.32 363.164,366.32 363.164,509.232 475.122,509.232 475.122,366.32 448.035,366.32 "
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <line
+         id="line2049"
+         y2="238.47501"
+         x2="238.30701"
+         y1="238.47501"
+         x1="126.349"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2051"
+         y2="271.65399"
+         x2="126.349"
+         y1="271.65399"
+         x1="238.30701"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2053"
+         y2="304.83401"
+         x2="238.30701"
+         y1="304.83401"
+         x1="126.349"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2055"
+         y2="338.01501"
+         x2="126.349"
+         y1="338.01501"
+         x1="364.664"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2057"
+         y2="371.19299"
+         x2="476.62201"
+         y1="371.19299"
+         x1="126.349"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2059"
+         y2="404.37399"
+         x2="126.349"
+         y1="404.37399"
+         x1="476.62201"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2061"
+         y2="437.55301"
+         x2="476.62201"
+         y1="437.55301"
+         x1="126.349"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2063"
+         y2="470.73199"
+         x2="238.30701"
+         y1="271.65399"
+         x1="238.30701"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2065"
+         y2="280.133"
+         x2="364.664"
+         y1="470.73199"
+         x1="364.664"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2067"
+         y2="238.47501"
+         x2="207.877"
+         y1="205.295"
+         x1="207.877"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2069"
+         y2="271.65399"
+         x2="162.04401"
+         y1="238.47501"
+         x1="162.04401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2071"
+         y2="304.83401"
+         x2="207.877"
+         y1="271.65399"
+         x1="207.877"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2073"
+         y2="338.01501"
+         x2="162.04401"
+         y1="304.83401"
+         x1="162.04401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2075"
+         y2="371.19299"
+         x2="207.877"
+         y1="338.01401"
+         x1="207.877"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2077"
+         y2="404.37399"
+         x2="162.04401"
+         y1="371.19299"
+         x1="162.04401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2079"
+         y2="437.552"
+         x2="207.877"
+         y1="404.37201"
+         x1="207.877"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2081"
+         y2="437.55499"
+         x2="277.73999"
+         y1="404.37399"
+         x1="277.73999"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2083"
+         y2="470.73199"
+         x2="323.57401"
+         y1="437.55301"
+         x1="323.57401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2085"
+         y2="371.19601"
+         x2="277.73999"
+         y1="338.01599"
+         x1="277.73999"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2087"
+         y2="404.37399"
+         x2="323.57401"
+         y1="371.194"
+         x1="323.57401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2089"
+         y2="437.55499"
+         x2="396.909"
+         y1="404.37399"
+         x1="396.909"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2091"
+         y2="470.73199"
+         x2="442.742"
+         y1="437.55301"
+         x1="442.742"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2093"
+         y2="404.37399"
+         x2="442.742"
+         y1="371.194"
+         x1="442.742"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <line
+         id="line2095"
+         y2="470.73199"
+         x2="162.04401"
+         y1="437.552"
+         x1="162.04401"
+         i:knockout="Off"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(0.781241,0,0,0.781241,-444.4301,1.4136)"
+         id="g9531">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7779"
+           width="21.214201"
+           height="65.130257"
+           x="791.65247"
+           y="281.08618" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path9529"
+           sodipodi:cx="704.85132"
+           sodipodi:cy="323.93903"
+           sodipodi:rx="20.097223"
+           sodipodi:ry="20.097223"
+           d="M 724.94854 323.93903 A 20.097223 20.097223 0 1 1  684.7541,323.93903 A 20.097223 20.097223 0 1 1  724.94854 323.93903 z"
+           transform="matrix(0.801802,0,0,0.801802,237.1084,96.07)" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         d="M 259.533,178.067 L 259.533,108.067 L 225.205,108.067 L 225.205,135.895 L 201.492,135.895 L 201.492,108.067 L 163.164,108.067 L 163.164,135.895 L 139.452,135.895 L 139.452,108.067 L 105.123,108.067 L 105.123,178.067 M 238.307,207.295 L 259.533,178.067 L 105.123,178.067 L 126.349,207.295 L 238.307,207.295 z "
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         id="polygon13975" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reflet final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
+       id="path2346" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z "
+       id="path3239" />
+  </g>
+</svg>

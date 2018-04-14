@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="763"
+   width="603"
+   version="1.0"
+   id="svg20"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Mergoscia-coat_of_arms.svg"
+   sodipodi:docbase="C:\Documents and Settings\Steve\Bureau\Blason Villages Suisse pour Wikipédia (par Delta-9)"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title>Gabrit d'un blason suisse</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 381.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="603 : 381.5 : 1"
+       inkscape:persp3d-origin="301.5 : 254.33333 : 1"
+       id="perspective28" />
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:#ffffff;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="0"
+         id="stop2965" />
+      <stop
+         style="stop-color:black;stop-opacity:0.64583331;"
+         offset="1"
+         id="stop2959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3236"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
+       cx="858.04236"
+       cy="579.93323"
+       fx="858.04236"
+       fy="579.93323"
+       r="300" />
+    <inkscape:perspective
+       id="perspective2631"
+       inkscape:persp3d-origin="306 : 264 : 1"
+       inkscape:vp_z="612 : 396 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 396 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="691"
+     inkscape:window-width="1102"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.28719062"
+     inkscape:cx="205.60118"
+     inkscape:cy="324.21724"
+     inkscape:window-x="1349"
+     inkscape:window-y="91"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="761.5"
+       id="guide1885" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="1.5"
+       id="guide1887" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="1.5"
+       id="guide1889" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="601.5"
+       id="guide1891" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="301.50081"
+       id="guide1893" />
+  </sodipodi:namedview>
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Fond écu"
+     style="opacity:1"
+     sodipodi:insensitive="true">
+    <path
+       id="path1899"
+       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z"
+       style="fill:#e20909;fill-opacity:1" />
+    <polygon
+       style="opacity:1;fill:#2b5df2"
+       points="1.5,1.5 290.053,367 301.5,367 301.5,1.5 1.5,1.5 "
+       id="polygon2542" />
+    <polygon
+       style="opacity:1;fill:#2b5df2"
+       points="601.5,367 312.947,367 601.5,1.5 601.5,367 "
+       id="polygon2546" />
+    <path
+       style="opacity:1;fill:#2b5df2"
+       d="M 1.5,460.368 C 1.5,538.312 31.002,609.341 79.41,662.814 L 301.5,381.5 L 301.5,367 L 1.5,367 L 1.5,460.368 z"
+       id="path2550" />
+    <path
+       style="opacity:1;fill:#2b5df2"
+       d="M 301.5,381.5 L 301.5,761.5 C 389.534,761.5 468.711,723.437 523.59,662.814 L 301.5,381.5 z"
+       id="path2554" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Meubles"
+     style="opacity:1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round"
+       id="path6594"
+       d="M 1.501,367 L 601.501,367" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round"
+       x1="301.5"
+       y1="1.5000004"
+       x2="301.5"
+       y2="761.5"
+       id="line2562" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round"
+       x1="1.5000001"
+       y1="1.5000004"
+       x2="523.591"
+       y2="662.81403"
+       id="line2564" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round"
+       x1="601.5"
+       y1="1.5000004"
+       x2="79.410004"
+       y2="662.81403"
+       id="line2566" />
+    <g
+       id="g2435"
+       transform="matrix(1.107877,0,0,1.107877,-32.522196,-41.661307)">
+      <path
+         d="M 203.711,257.633 L 203.711,407.208 C 203.711,461.42 247.493,505.367 301.5,505.367 C 355.508,505.367 399.289,461.42 399.289,407.208 L 399.289,257.633 L 203.711,257.633 z"
+         id="path3239_1_"
+         style="fill:#fcef3c" />
+      <path
+         style="stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+         d="M 278.233,376.139 L 275.155,383.858 C 275.155,383.858 260.045,404.397 250.812,432.068 C 250.812,432.068 263.124,419.836 283.83,414.3 C 283.83,414.3 256.549,435.709 246.056,450.129 C 246.056,450.129 244.098,453.624 246.056,458.867 C 248.015,464.111 244.378,471.976 244.378,471.976 L 278.794,474.889 L 340.071,444.884 L 342.31,418.668 C 342.31,418.668 346.787,420.124 346.787,425.949 C 346.787,425.949 359.804,365.244 345.047,347.97 L 317.687,346.424 L 278.233,376.139 z"
+         id="path2573" />
+      <path
+         style="stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+         d="M 269.094,317.684 C 269.094,317.684 265.549,291.079 276.275,279.912 C 277.674,278.455 285.975,299.526 288.4,310.596 L 287.094,321.471 L 271.426,324.19 L 269.094,317.684 z"
+         id="path2575" />
+      <path
+         style="stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+         d="M 319.713,319.278 C 319.713,319.278 338.941,294.343 367.49,316.228 C 384.467,329.239 374.888,363.055 364.88,379.344 C 363.388,381.771 364.926,388.908 370.289,383.325 C 375.651,377.742 414.871,322.248 369.729,290.205 C 362.175,276.902 341.189,265.931 315.447,276.378 C 289.705,286.826 288.4,310.597 288.4,310.597 C 280.566,321.084 271.612,318.753 269.094,317.685 C 266.575,316.617 265.456,321.472 264.337,324.19 C 263.217,326.909 252.491,333.026 249.413,337.542 C 246.336,342.057 248.294,342.348 237.941,349.63 C 227.588,356.913 218.075,366.526 216.956,367.692 C 215.836,368.857 213.318,381.529 213.318,381.529 C 209.82,393.762 218.914,392.016 218.914,392.016 C 218.215,394.2 218.914,397.187 224.72,397.187 C 230.526,397.187 232.345,389.249 235.283,392.307 C 243,400.342 234.444,423.767 234.444,423.767 C 255.569,415.611 246.895,402.502 255.009,390.267 C 263.124,378.032 271.518,383.858 275.155,383.858 C 275.155,383.858 285.974,383.228 301.457,373.323 C 316.94,363.42 323.095,350.795 324.96,350.795 C 361.383,350.795 369.589,327.927 369.589,326.908 C 369.589,325.889 354.9,315.515 336.9,326.293 C 318.898,337.072 316.753,335.842 316.753,335.842 C 329.736,331.337 328.877,323.219 328.877,323.219 C 322.443,329.919 311.718,327.297 311.718,327.297 C 321.978,327.297 324.029,318.945 324.029,318.945 C 322.506,319.1 321.068,319.209 319.713,319.278 z"
+         id="path2577" />
+      <path
+         id="path2581"
+         d="M 280.822,333.901 C 266.662,333.972 263.904,336.04 260.606,341.765 C 259.418,343.825 258.091,345.412 256.871,346.602 C 256.871,346.602 262.145,352.688 272.358,345.843 C 282.57,338.998 280.822,333.901 280.822,333.901 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2583"
+         d="M 268.595,337.153 C 266.398,337.153 264.616,339.007 264.616,341.295 C 264.616,343.583 266.397,345.437 268.595,345.437 C 270.792,345.437 272.573,343.583 272.573,341.295 C 272.573,339.007 270.792,337.153 268.595,337.153 z M 268.944,342.079 C 267.701,342.68 266.538,342.816 266.345,342.383 C 266.152,341.949 267.002,341.111 268.244,340.511 C 269.487,339.91 270.65,339.774 270.844,340.207 C 271.038,340.64 270.187,341.479 268.944,342.079 z" />
+      <path
+         id="path2585"
+         d="M 252.771,349.63 C 252.771,349.63 254.641,348.777 256.87,346.602"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2587"
+         d="M 280.822,333.901 C 281.075,333.9 281.331,333.9 281.591,333.9 C 284.388,333.9 286.977,331.205 286.977,331.205"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2591"
+         d="M 226.189,390.559 C 226.189,390.559 222.228,392.297 218.914,392.016"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2593"
+         d="M 319.713,319.278 C 303.966,320.081 299.249,315.537 299.592,314.286 C 302.435,303.933 309.36,294.069 324.776,286.708 C 346.415,276.376 369.73,290.204 369.73,290.204"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2595"
+         d="M 323.701,343.805 C 323.701,343.222 322.163,341.62 322.163,341.62 C 322.163,341.62 348.743,323.559 359.797,328.512"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2597"
+         d="M 370.825,367.269 C 370.825,367.269 375.584,367.158 378.392,371.648"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2599"
+         d="M 374.34,356.58 C 374.34,356.58 379.486,355.779 384.471,359.623"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2601"
+         d="M 376.502,344.77 C 376.502,344.77 382.779,342.94 389.195,345.703"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2603"
+         d="M 375.621,329.17 C 375.621,329.17 379.923,322.912 390.706,322.912"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2605"
+         d="M 367.98,316.62 C 367.98,316.62 372.423,308.061 381.15,300.807"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2607"
+         d="M 358.396,310.599 C 358.396,310.599 364.242,299.818 368.944,289.768"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2609"
+         d="M 348.855,307.598 C 348.855,307.598 350.48,298.767 350.48,283.562"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2611"
+         d="M 335.43,308.621 C 335.43,308.621 335.799,294.641 332.269,284.048"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2613"
+         d="M 327.096,312.681 C 327.096,312.681 322.337,300.119 311.899,294.943"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2615"
+         d="M 288.4,310.596 C 288.4,310.596 289.612,317.248 299.592,314.286"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2617"
+         d="M 295.236,292.298 C 295.236,292.298 302.766,291.442 309.667,297.013"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2619"
+         d="M 315.447,276.377 C 315.447,276.377 321.494,282.775 321.494,288.384"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2621"
+         d="M 334.467,272.237 C 334.467,272.237 336.716,278.143 336.716,283.226"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path2623"
+         d="M 353.82,276.129 C 353.82,276.129 353.374,280.057 351.909,283.814"
+         style="fill:none;stroke:#fcef3c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         d="M 203.711,257.633 L 203.711,407.208 C 203.711,461.42 247.493,505.367 301.5,505.367 C 355.508,505.367 399.289,461.42 399.289,407.208 L 399.289,257.633 L 203.711,257.633 z"
+         id="path3239_2_"
+         style="fill:none;stroke:#000000;stroke-width:3" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Reflet final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:url(#radialGradient3236);fill-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
+       id="path2346" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Contour final"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z "
+       id="path3239" />
+  </g>
+</svg>

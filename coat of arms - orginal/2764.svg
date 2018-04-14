@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Biel-Benken</title>
+  <desc>Wappen der Schweizer Gemeinde Biel-Benken, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="4">
+    <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" fill="#e2001a" />
+    <path d="M 0,0 L -49,78 149,22 93,220 291,164 235,362 334,334 362,235 164,291 220,93 22,149 78,-49" fill="white" clip-path="url(#cpSchild)" />
+  </g>
+</svg>

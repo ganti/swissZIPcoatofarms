@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Ettingen</title>
+  <desc>Wappen der Schweizer Gemeinde Ettingen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="4">
+    <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" fill="white" />
+    <path d="M 2,2 H 175 V 408 H 350 V 204 H 0" fill="#0056ad" clip-path="url(#cpSchild)" />
+    <path d="M 175,83 h 66.5 V 2 h 40 V 83 H 348 v 40 h -66.5 v 81 h -40 v -81 H 175 z" fill="#e2001a" />
+  </g>
+</svg>

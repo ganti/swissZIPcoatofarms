@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Nottwil</title>
+  <desc>Wappen der Schweizer Gemeinde Nottwil, Kanton Luzern</desc>
+  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="white" />
+  <g stroke="black" stroke-width="1" fill="#e2001a">
+    <path d="M 1.5,1.5 L 89.97,89.97 A 48.5,48.5 0 0,0 98.5,62.5 V 1.5 z" />
+    <path id="stern" d="M 29.5,66.2 L 34,50 38.5,66.2 54.9,62 43,74 54.9,86 38.5,81.8 34,98 29.5,81.8 13,86 24.9,74 13,62 z" />
+    <use x="38.5" y="-44" xlink:href="#stern" fill="white" />
+  </g>
+</svg>
+

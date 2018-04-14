@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="492" width="412" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-206 -214 412 492">
+<path stroke="#000" stroke-width="10" d="m-201-209v280a201 201 0 0 0 402 0v-280z" fill="#18d"/>
+<use xlink:href="#d" transform="scale(-1,1)"/>
+<g id="d" stroke="#000" stroke-width="3" fill="#fd0" transform="rotate(-29) translate(-20,-16)">
+<g stroke-width="7">
+<path d="m-12-198h23c4 0 8 4 8 8l5 433c0 16-48 16-48 0l5-433c0-4 3-8 7-8z"/>
+<path d="m50-156-125-5c-30-1-38 12-38 51s8 54 38 50l125-16c20-3 24-10 24-40s-4-39-24-40z" fill="#fff"/>
+<use xlink:href="#c"/>
+</g>
+<g id="c">
+<path id="e" d="m-22-68h44m-37-11h30m-15-11-24 32h48z"/>
+<g transform="matrix(-1 0 0 -1 0 -226)">
+<use xlink:href="#e"/><use xlink:href="#o" x="-1" y="-1"/><use id="b" y=".7" xlink:href="#a"/>
+</g>
+<use id="o" xlink:href="#a" transform="matrix(-1 0 0 1 11.5 -6)"/>
+<rect id="a" rx="6" transform="rotate(125)" height="13" width="135" y="52" x="-161"/>
+</g>
+<path d="m12-96-12-17.7-8 11.7 9 13"/>
+</g>
+</svg>

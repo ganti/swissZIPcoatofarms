@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0 0 100 112.5">
+  <title>Wappen von Stetten</title>
+  <desc>Wappen der Schweizer Gemeinde Stetten, Kanton Aargau</desc>
+  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
+  <path d="M 55.5,15 c -1,2 -1,4 -1,6 V 33 H 65 c 2,0 4,0 6,-1 V 41.5 c -2,-1 -4,-1 -6,-1 H 54.5 V 52.5 H 73 c 2,0 4,0 6,-1 V 61 c -2,-1 -4,-1 -6,-1 H 54.5 V 87 c 0,10 4,13 5.8,14.5 -3.3,0 -5.3,-1 -7.3,-2.5 -0.5,3 -1.5,5.5 -3,7.5 -1.5,-2 -2.5,-4.5 -3,-7.5 -2,1.5 -4,2.5 -7.3,2.5 1.8,-1.5 5.8,-4.5 5.8,-14.5 V 60 H 27 c -2,0 -4,0 -6,1 V 51.5 c 2,1 4,1 6,1 H 45.5 V 40.5 H 35 c -2,0 -4,0 -6,1 V 32 c 2,1 4,1 6,1 H 45.5 V 21 c 0,-2 0,-4 -1,-6 z M 6.4,15 l 9.3,0 2.8,-8.8 2.9,8.8 9.3,0 -7.5,5.5 2.8,8.8 -7.5,-5.5 -7.5,5.5 2.8,-8.8 z M 69.4,15 l 9.3,0 2.8,-8.8 2.9,8.8 9.3,0 -7.5,5.5 2.8,8.8 -7.5,-5.5 -7.5,5.5 2.8,-8.8 z" stroke="black" stroke-width="1" fill="white" />
+</svg>

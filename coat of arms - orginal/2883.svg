@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 3500 4080">
+  <title>Wappen von Bretzwil</title>
+  <desc>Wappen der Schweizer Gemeinde Bretzwil, Kanton Baselland</desc>
+  <g stroke="black" stroke-width="40">
+    <path d="M 20,20 H 3480 V 2330 A 1710 1710 0 0 1 20,2330 z" fill="#ffd400" />
+    <use xlink:href="#zepter" transform="matrix(-1,0,0,1,3500,0)" />
+    <g id="zepter" fill="#e2001a" transform="matrix(0.74,-0.67,0.67,0.74,270,293)">
+      <path d="M -176,1480 c -8,-167 -48,-274 -130,-364 -63,-70 -115,-102 -159,-62 -86,78 198,249 13,405 -49,-159 -149,-164 -266,-262 -160,-135 -242,-339 -61,-512 159,-160 707,-133 707,795 0,-618 -220,-695 -213,-1021 5,-228 164,-360 285,-459 121,99 280,231 285,459 7,326 -213,403 -213,1021 0,-928 563,-933 707,-795 181,173 99,377 -61,512 -117,98 -217,103 -266,262 -185,-156 99,-327 13,-405 -44,-40 -96,-8 -159,62 -82,90 -122,197 -130,364" />
+      <path d="M -155,1670 V 3170 c 0,300 -33,499 -96,719 251,236 251,236 502,0 -63,-220 -96,-419 -96,-719 V 1670 M -251,3889 H 251" />
+      <path d="M -270,1440 H 270 v 310 H -270 z" />
+      <path d="M -380,1530 H 380 v 130 H -380 z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0 0 1000 1125">
+  <title>Wappen von Strengelbach</title>
+  <desc>Wappen der Schweizer Gemeinde Strengelbach, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 20,20 H 980 V 625 A 480 480 0 0 1 20,625 z" /> </clipPath>
+  </defs>
+  <path d="M 10,10 H 990 V 625 A 490 490 0 0 1 10,625 z" stroke="black" stroke-width="20" fill="#fcdb00" />
+  <path d="M 1124,164 c -71,71 -134,42 -205,113 s -42,134 -113,205 -134,42 -205,113 -42,134 -113,205 -134,42 -205,113 -42,134 -113,205 L -28,921 c 71,-71 42,-134 113,-205 s 134,-42 205,-113 42,-134 113,-205 134,-42 205,-113 42,-134 113,-205 134,-42 205,-113"
+        stroke="black" stroke-width="10" fill="#0093dd" clip-path="url(#cpSchild)" />
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Zunzgen</title>
+  <desc>Wappen der Schweizer Gemeinde Zunzgen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" stroke="black" stroke-width="4" fill="#ffd400" />
+  <path d="M 80,270 V 175 h 62 v 95 h 2 V 175 h 62 v 95 h 2 V 175 h 62 v 95 M 80,138 v 35 h 35 v -35 h 2 v 35 h 57 v -35 h 2 v 35 h 57 v -35 h 2 v 35 h 35 v -35 M 80,101 v 35 h 62 v -35 h 2 v 35 h 62 v -35 h 2 v 35 h 62 v -35 M 80,64 v 35 h 40 v -35 h 35 v 35 h 40 v -35 h 35 v 35 h 40 v -35" />
+  <path d="M 0,408 V 270 C 87.5,270 87.5,195 175,195 C 262.5,195 262.5,270 350,270 V 408" stroke="black" stroke-width="4" fill="#e2001a" clip-path="url(#cpSchild)" />
+</svg>

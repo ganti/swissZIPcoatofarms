@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Reinach</title>
+  <desc>Wappen der Schweizer Gemeinde Reinach, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="9">
+    <path d="M 4.5,4.5 H 270 v 611 A 265.5,265.5 0 0,1 4.5,350 z" fill="white" />
+    <path d="M 270,4.5 H 535.5 V 350 A 265.5,265.5 0 0,1 270,615.5 z" fill="#0056ad" />
+  </g>
+  <g stroke="black" stroke-width="4">
+    <circle id="kreis" cx="402" cy="112" r="70" fill="#ffd400" />
+    <use y="162" xlink:href="#kreis" />
+    <use y="324" xlink:href="#kreis" />
+    <path d="M 118,248 V 600 h 40 V 248 h 32 V 214 H 86 v 34 h 72 m 0,-34 c 0,-28 53,-45 53,-97 A 73,74 0 0,0 138,43 71,62 0 0,0 67,105 47,52 0 0,0 114,157 35,30 0 0,0 149,127 24,23 0 0,0 125,104 c -6,0 -9,2 -12,7 -1,2 -3,7 -6,7 a 7,16 0 0,1 -7,-16 37,28 0 0,1 37,-28 38,43 0 0,1 38,43 c 0,38 -57,60 -57,97" fill="#e2001a" clip-path="url(#cpSchild)" />
+  </g>
+</svg>

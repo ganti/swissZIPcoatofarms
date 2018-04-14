@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Erlinsbach</title>
+  <desc>Wappen der Schweizer Gemeinde Erlinsbach, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
+  </defs>
+  <path d="M 0,0 H 100 V 62.5 A 50,50 0 0,1 0,62.5" />
+  <g clip-path="url(#cpSchild)">
+    <path d="M 0,0 L 112,112 H 0" fill="#0093dd" />
+    <path d="M 0,0 H 82.4 L 42.4,40 M 100,17 V 100 L 60,57" fill="#fcdb00" />
+    <g stroke="black" stroke-width="1" fill="white">
+      <path d="M 0,0 c 10,0 15,6 25,6 s 15,-6 25,-6 15,6 25,6 15,-6 25,-6 15,6 25,6 15,-6 25,-6 v 23.5 c -10,0 -15,6 -25,6 s -15,-6 -25,-6 -15,6 -25,6 -15,-6 -25,-6 -15,6 -25,6 -15,-6 -25,-6" transform="translate(7,-14.5) rotate(45)" />
+      <path d="M 10,69 L 22,69 25.75,57.5 29.5,69 41.5,69 31.8,76 35.5,87.5 25.75,80.4 16,87.5 19.7,76 z" />
+    </g>
+  </g>
+</svg>

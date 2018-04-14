@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-206 -357 412 492" height="492" width="412">
+<path stroke="#000" stroke-width="8" d="m-201-352v280a201 201 0 0 0 402 0v-280z" fill="#fff"/>
+<use xlink:href="#k" transform="scale(-1,1)"/>
+<g id="k" stroke="#000" stroke-width="3" transform="rotate(-30,0,-168)">
+<path d="m-3-217h-72v-19h-19v19h-20v-46h47v17h18v-17h17v-20h-17v-17h-18v17h-47v-46h20v19h19v-19h72" stroke-width="3" fill="#38c"/>
+<rect rx="12" height="295" width="24" y="-351" x="-12" fill="#38c"/>
+<use xlink:href="#a" y="-36"/>
+<use xlink:href="#f" stroke-width="37"/>
+<use xlink:href="#f" stroke="#38c" stroke-width="31"/>
+<g id="f">
+<g id="g">
+<use id="b" y="-24" xlink:href="#c"/>
+<use xlink:href="#b" transform="scale(1,-1)"/>
+</g>
+<use xlink:href="#g" transform="rotate(90)"/>
+</g>
+<g stroke="#fff" stroke-width="9"><circle id="c" r="18" fill="#fff"/></g>
+<g id="d">
+<use width="412" xlink:href="#e" transform="rotate(90)" height="492"/>
+<g id="e">
+<rect id="a" rx="9" height="18" width="46" y="-74" x="-23" fill="#38c"/>
+</g>
+</g>
+<use width="412" xlink:href="#d" transform="rotate(180)" height="492"/>
+</g></svg>

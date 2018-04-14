@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Böbikon</title>
+  <desc>Wappen der Schweizer Gemeinde Böbikon, Kanton Aargau</desc>
+  <g stroke="black" stroke-width="1">
+    <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke-width="2" fill="#0093dd" />
+    <path d="M 46,60 v 5 h 8 v -5 h 37 A 41,41 0 0,1 90.22,68 L 84.33,66.83 A 35,35 0 0,1 79.1,79.45 L 84.09,82.72 A 41,41 0 0,1 72.78,94.09 L 69.45,89.11 A 35,35 0 0,1 56.83,94.34 L 58,100.22 A 41,41 0 0,1 42,100.22 L 43.17,94.34 A 35,35 0 0,1 30.55,89.11 L 27.22,94.09 A 41,41 0 0,1 15.91,82.72 L 20.9,79.45 A 35,35 0 0,1 15.67,66.83 L 9.78,68 A 41,41 0 0,1 9,60 z M 45,69 H 41 V 65 H 25 A 25,25 0 0,0 45,85 z M 59,65 V 69 H 55 V 85 A 25,25 0 0,0 75,65 z" fill="white" />
+    <path d="M 45,20.7 L 50,6 55,20.7 70.2,17.7 60,29.5 70.2,41.3 55,38.3 50,53 45,38.3 29.8,41.3 40,29.5 29.8,17.7 z" fill="#fcdb00" />
+  </g>
+</svg>

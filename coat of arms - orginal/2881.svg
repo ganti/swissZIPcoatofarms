@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Arboldswil</title>
+  <desc>Wappen der Schweizer Gemeinde Arboldswil, Kanton Baselland</desc>
+  <g stroke="black" stroke-width="4" stroke-linecap="round" fill="#00901e">
+    <path d="M 4.5,4.5 h 531 V 350 a 265.5,265.5 0 0,1 -531,0 z" stroke-width="9" fill="#0056ad" />
+    <path d="M 119,540 V 342 h 44 v 44 h 42 v -44 h 44 v 44 h 42 v -44 h 44 v 44 h 42 v -44 h 44 V 540" fill="white" />
+    <path d="M 119,386 H 421 v 44 H 119 v 44 H 421 H 184 v 66 m 0,-154 v 44 h 43 v 44 h 43 v 66 m 0,-154 v 44 h 43 v 44 h 43 v 66 m 0,-154 v 44" fill="none" />
+    <path d="M 82.586,534.512 a 66,66 0 1,1 111.035,67.224 H 346.379 a 66,66 0 1,1 111.035,-67.224 263,263 0 0,1 -374.828,0" />
+    <path d="M 192.846,601.5 a 85,77 0 1,1 154.308,0 263,263 0 0,1 -154.308,0" />
+    <g id="s4">
+      <g id="s2">
+        <path id="s1" d="M 251,97 l 19,-70 19,70 c 3,-25 14,-17 16,-32 3,-21 20,-11 26,-29 16,20 -4,22 -5,36 -1,12 11,23 -8,37" stroke-miterlimit="5" fill="#ffd400" />
+        <use xlink:href="#s1" transform="rotate(45,270,185)" />
+      </g>
+      <use xlink:href="#s2" transform="rotate(90,270,185)" />
+    </g>
+    <use xlink:href="#s4" transform="rotate(180,270,185)" />
+    <circle cx="270" cy="185" r="90" fill="#ffd400" />
+    <path d="M 200,159 c 18,-40 65,-21 61,20 m 18,0 c -4,-41 43,-60 61,-20 m -128,8 c 11,-23 37,-9 34,4 m 48,0 c -3,-13 23,-27 34,-4 m -75,31 c 10,9 24,9 34,0 m -59,18 c 3,-1 5,-2 7,-6 m 70,0 c 2,4 4,5 7,6 m -78,-4 c 17,14 55,14 72,0 m -51,23 c 10,4 20,4 30,0" fill="none" />
+  </g>
+  <path d="M 227,155 a 10,10 0 1,0 16,5 m 54,0 a 10,10 0 1,0 16,-5" />
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Oltingen</title>
+  <desc>Wappen der Schweizer Gemeinde Oltingen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <path d="M 0,0 H 540 V 350 A 270,270 0 0,1 0,350" />
+  <path d="M 0,620 L 0,163 416,620 M 540,0 L 540,445 137,0" fill="#ffd400" clip-path="url(#cpSchild)" />
+  <path d="M -54,192 C -111,128 -96,0 0,0 96,0 111,128 54,192 L 26,174 C 57,124 44,55 0,55 -44,55 -57,124 -26,174 M -61.7,158.7 l 12.2,-4.5 -3.1,-8.4 -12.2,4.5 z M -70,101 h 13 V 92 H -70 z M -50,42.3 l 9.6,8.8 6,-6.7 -9.6,-8.7 z M 50,42.3 l -6,-6.6 -9.6,8.7 6,6.7 z M 70,101 V 92 H 57 v 9 z M 61.7,158.7 l 3.1,-8.4 -12.2,-4.5 -3.1,8.4 z"
+        id="hufeisen" fill="white" transform="translate(60,72) rotate(-42)" />
+  <use x="131" y="143" xlink:href="#hufeisen" />
+  <use x="262" y="286" xlink:href="#hufeisen" />
+</svg>

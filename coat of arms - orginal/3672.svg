@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="446px"
+   height="490px"
+   viewBox="37.5 24.5 446 490"
+   enable-background="new 37.5 24.5 446 490"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="safiental.svg"><metadata
+   id="metadata3049"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3047" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1143"
+   inkscape:window-height="937"
+   id="namedview3045"
+   showgrid="false"
+   inkscape:zoom="0.48163265"
+   inkscape:cx="223"
+   inkscape:cy="245"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="clip-boundary"
+   transform="matrix(0.97175154,0,0,0.96561063,29.618642,27.455783)">
+	<defs
+   id="defs3020">
+		<path
+   id="SVGID_1_"
+   d="m 24,276.002 c 0,119.293 96.707,216.001 216.001,216.001 119.294,0 216.001,-96.708 216.001,-216.001 V 18 H 24 v 258.002 z"
+   inkscape:connector-curvature="0" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use3024"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="446"
+   height="490" />
+	</clipPath>
+	<path
+   id="feld-1"
+   clip-path="url(#SVGID_2_)"
+   d="M -15,-15 V 495.003 H 495.002 V -15 H -15 z"
+   inkscape:connector-curvature="0"
+   style="fill:#003fff" />
+	<path
+   id="kreuz1-1"
+   clip-path="url(#SVGID_2_)"
+   d="m 495.002,240.001 v -48 H 288.001 l -48,48 h 255.001 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+	<path
+   id="kreuz1-2"
+   clip-path="url(#SVGID_2_)"
+   d="m -15,240.001 v 48.001 h 207.001 l 48,-48.001 H -15 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+	<path
+   id="kreuz1-3"
+   clip-path="url(#SVGID_2_)"
+   d="m 240.001,495.003 h 48 V 288.002 l -48,-48.001 v 255.002 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+	<path
+   id="kreuz1-4"
+   clip-path="url(#SVGID_2_)"
+   d="m 240.001,-15 h -48 v 207.001 l 48,48 V -15 z"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+	<path
+   id="kreuz2-1"
+   clip-path="url(#SVGID_2_)"
+   d="M 495.002,240.001 H 240.001 l 48,48.001 h 207.001 v -48.001 z"
+   inkscape:connector-curvature="0" />
+	<path
+   id="kreuz2-2"
+   clip-path="url(#SVGID_2_)"
+   d="m 240.001,-15 v 255.001 l 48,-48 V -15 h -48 z"
+   inkscape:connector-curvature="0" />
+	<path
+   id="kreuz2-3"
+   clip-path="url(#SVGID_2_)"
+   d="M 240.001,495.003 V 240.001 l -48,48.001 v 207.001 h 48 z"
+   inkscape:connector-curvature="0" />
+	<path
+   id="kreuz2-4"
+   clip-path="url(#SVGID_2_)"
+   d="m -15,240.001 h 255.001 l -48,-48 H -15 v 48 z"
+   inkscape:connector-curvature="0" />
+	<path
+   id="linie-1"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M 192.001,-15 V 192.001 H -15"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-2"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M -15,288.002 H 192.001 V 495.003"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-3"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M 288.001,-15 V 192.001 H 495.002"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-4"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M 495.002,288.002 H 288.001 v 207.001"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-5"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M -15,240.001 H 495.002"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-6"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="M 240.001,-15 V 495.003"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-7"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="m 192.001,192.001 96,96.001"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<path
+   id="linie-8"
+   clip-path="url(#SVGID_2_)"
+   stroke-miterlimit="10"
+   d="m 192.001,288.002 96,-96.001"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#202020;stroke-width:3;stroke-miterlimit:10" />
+	<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   stroke-miterlimit="10"
+   id="use3043"
+   style="fill:none;stroke:#202020;stroke-width:9;stroke-miterlimit:10;overflow:visible"
+   x="0"
+   y="0"
+   width="446"
+   height="490" />
+</g>
+</svg>

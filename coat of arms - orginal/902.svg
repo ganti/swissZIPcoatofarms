@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="492" width="412" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-206 -203 412 492" stroke="#111">
+<path d="m-202-199v281a202 202 0 0 0 404 0v-281z" stroke-width="9" fill="#e21"/>
+<g id="c">
+<path d="m26 143c-16-26-13-72-14-119h-24c-1 47 2 93-14 119" stroke-width="6" fill="#fc0"/>
+<use xlink:href="#d" stroke-miterlimit="9" stroke-width="12"/>
+<g id="d">
+<g id="e">
+<path d="m-.5 29c34 21 57.5 20 69.5 10-30-19-36-39-45-55h26c-6.6-8.8-24-33-32-55h23c-10-13-22-28-30-50h18c-9-14-23-40-29-58l-0.3 1" fill="#293"/>
+</g>
+<use xlink:href="#e" transform="scale(-1,1)"/>
+</g>
+</g>
+<use xlink:href="#c" x="-119" y="38"/>
+<use xlink:href="#c" x="119" y="38"/>
+<use stroke-width="12" xlink:href="#a"/>
+<g id="a">
+<use xlink:href="#b" transform="scale(-1,1)"/>
+<g id="b">
+<path fill="#293" d="m0 280c39-39 61-72 58-104-2-20-19-42-59-42m1 146c-24-22-65-52-66-101-15-32-90-31-89 26 40 51 99 75 155 75"/>
+</g>
+</g>
+</svg>

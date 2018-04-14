@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Niederdorf</title>
+  <desc>Wappen der Schweizer Gemeinde Niederdorf, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" stroke="black" stroke-width="9" fill="white" />
+  <g stroke="black" stroke-width="4" fill="#e2001a" clip-path="url(#cpSchild)">
+    <path d="M 0,0 V 620 H 620 z M 247,247 V 30 h 46 V 293 z M 293,30 h 21 V 62 h 22 V 30 H 493 V 62 H 419 v 20 a 11,11 0 0,0 22,0 h 52 v 36 H 392 V 62 H 367 v 56 H 314 v 25 h 53 v 63 h 25 V 143 H 493 v 37 H 441 a 11,11 0 0,0 -22,0 v 26 h 74 v 34 H 336 V 206 H 314 v 34 H 293 z" />
+    <path d="M 247,247 v 82 h -8 a 12,12 0 0,0 0,24 h 8 v 12 H 230 v 13 a 95,105 0 0,0 -90,76 13,13 0 0,0 -23,10 16,16 0 0,0 0,32 13,13 0 0,0 23,10 110,90 0 0,0 110,80 v 14 h 40 V 586 A 110,90 0 0,0 400,506 13,13 0 0,0 423,496 16,16 0 0,0 423,464 13,13 0 0,0 400,454 95,105 0 0,0 310,378 V 365 H 293 V 353 h 8 a 12,12 0 0,0 0,-24 h -8 V 293 z M 208,543 a 70,60 0 0,1 -38,-47 16,16 0 0,0 0,-32 70,60 0 0,1 38,-47 z M 332,417 a 70,60 0 0,1 38,47 16,16 0 0,0 0,32 70,60 0 0,1 -38,47 z M 242,470 a 300,300 0 0,1 65,81 50,50 0 0,1 -37,-12 40,40 0 0,1 -28,13 z M 298,473 a 450,450 0 0,0 -59,-64 40,40 0 0,1 31,11 40,40 0 0,1 28,-12 z" fill="white" />
+  </g>
+</svg>
+

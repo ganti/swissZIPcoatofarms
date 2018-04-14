@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Pfeffingen</title>
+  <desc>Wappen der Schweizer Gemeinde Pfeffingen, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z" /> </clipPath>
+  </defs>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" stroke="black" stroke-width="9" fill="white" />
+  <path d="M 0,338 H 162 V 314 h 41 c 0,-45 -29,-88 -50,-88 -47,0 -7,75 -67,75 -14,0 -23,-4 -30,-13 17,-2 24,-15 24,-27 0,-30 -55,-94 -13,-130 52,-46 161,46 161,183 h 22 c 0,-140 -60,-145 -60,-203 0,-36 24,-46 46,-56 32,-16 22,-32 34,-32 12,0 2,16 34,32 22,10 46,20 46,56 0,58 -60,63 -60,203 h 22 c 0,-137 109,-229 161,-183 42,36 -13,100 -13,130 0,12 7,25 24,27 -7,9 -16,13 -30,13 -60,0 -20,-75 -67,-75 -21,0 -50,43 -50,88 h 41 v 24 H 540 V 464 H 0" stroke="black" stroke-width="4" fill="#0056ad" clip-path="url(#cpSchild)" />
+</svg>

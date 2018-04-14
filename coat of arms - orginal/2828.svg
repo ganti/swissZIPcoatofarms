@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="540" height="620" viewBox="0,0 540,620">
+  <title>Wappen von Lausen</title>
+  <desc>Wappen der Schweizer Gemeinde Lausen, Kanton Baselland</desc>
+  <path d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z" stroke="black" stroke-width="9" fill="#e2001a" />
+  <rect width="540" height="235" />
+  <g fill="#ffd400">
+    <circle cx="270" cy="70" r="54" />
+    <circle cx="212" cy="170" r="54" />
+    <circle cx="328" cy="170" r="54" />
+    <g id="hacke" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 180,288 L 411,517 A 23,23 0 0,1 378,550 L 156,315" />
+      <path d="M 128,311 l 25,9 32,-35 -39,-43 C 10,357 46,449 52,449 61,449 39,400 149,289" />
+    </g>
+    <use xlink:href="#hacke" transform="matrix(-1,0,0,1,540,0)" />
+  </g>
+</svg>

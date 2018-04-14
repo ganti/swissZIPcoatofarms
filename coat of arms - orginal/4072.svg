@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0 0 1000 1125">
+  <title>Wappen von Niederwil</title>
+  <desc>Wappen der Schweizer Gemeinde Niederwil, Kanton Aargau</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 20,20 H 980 V 625 A 480 480 0 0 1 20,625 z" />
+    </clipPath>
+  </defs>
+  <path d="M 10,10 H 990 V 625 A 490 490 0 0 1 10,625 z" stroke="black" stroke-width="20" fill="#009944" />
+  <g stroke="black" stroke-width="10" clip-path="url(#cpSchild)">
+    <path d="M 10,10 H 990 V 641 H 10 M 10,425 H 990" fill="#f00000" />
+    <path d="M 10,533 V 641 H 123 V 425 h 108 V 641 h 107 V 425 h 108 V 641 h 108 V 425 h 108 V 641 h 107 V 425 h 108 V 641 h 108 V 533 z M 14,15 L 287,425 H 520 L 247,15 H 480 L 753,425 H 986 L 713,15 M -10,815 c 80,0 90,-45 170,-45 s 90,45 170,45 90,-45 170,-45 90,45 170,45 90,-45 170,-45 90,45 170,45 v 130 c -80,0 -90,-45 -170,-45 s -90,45 -170,45 -90,-45 -170,-45 -90,45 -170,45 -90,-45 -170,-45 -90,45 -170,45" fill="white" />
+  </g>
+</svg>

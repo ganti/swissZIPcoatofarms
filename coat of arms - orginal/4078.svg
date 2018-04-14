@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="520" height="585" viewBox="0 0 100 112.5">
+  <title>Wappen von Uezwil</title>
+  <desc>Wappen der Schweizer Gemeinde Uezwil, Kanton Aargau</desc>
+  <g stroke="black" stroke-width="2">
+    <path d="M 1,1 H 50 V 111.5 A 49 49 0 0 1 1,62.5 z" fill="#fcdb00" />
+    <path d="M 50,1 H 99 V 62.5 A 49 49 0 0 1 50,111.5 z" fill="#0093dd" />
+    <path d="M 49.5,23.5 h -22 c 3.5,-2.5 7.5,-6 9,-10 -9,4.5 -18,8.5 -28,11.5 10,3 19,7 28,11.5 -1.5,-4 -5.5,-7.5 -9,-10 h 22 z"
+          id="spitze" stroke-width="1" fill="#f00000" />
+    <use y="27" xlink:href="#spitze" />
+    <use y="54" xlink:href="#spitze" />
+  </g>
+</svg>

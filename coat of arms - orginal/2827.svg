@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Hersberg</title>
+  <desc>Wappen der Schweizer Gemeinde Hersberg, Kanton Baselland</desc>
+  <defs>
+    <clipPath id="cpSchild">
+      <path d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z" />
+    </clipPath>
+  </defs>
+  <g stroke="black" stroke-width="4">
+    <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" fill="white" />
+    <path d="M 2,78 H 348 V 40 H 2 V 2 H 45.25 V 78 H 88.5 V 2 H 131.75 V 78 H 175 V 2 H 218.25 V 78 H 261.5 V 2 H 304.75 V 78 M 95,350 V 192 h 25 V 157 h 20 V 126 h 21 V 93 h 28 v 33 h 21 v 31 h 20 v 35 h 25 V 350 H 195 V 282 c 0,-17 -14,-26 -20,-26 -6,0 -20,9 -20,26 v 68 M 164,215 h 22 V 173 H 164 z" fill="#e2001a" />
+    <g fill="#00901e" clip-path="url(#cpSchild)">
+      <circle cx="101" cy="368" r="43" />
+      <circle cx="249" cy="368" r="43" />
+      <ellipse cx="175" cy="372" rx="52" ry="47" />
+    </g>
+  </g>
+</svg>

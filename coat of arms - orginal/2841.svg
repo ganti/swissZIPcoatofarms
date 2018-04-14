@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="525" height="612"
+   viewBox="0 0 350 408">
+  <title>Wappen von Anwil</title>
+  <desc>Wappen der Schweizer Gemeinde Anwil, Kanton Baselland</desc>
+  <path d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z" stroke="black" stroke-width="4" fill="white" />
+  <path d="M 0,0 h 175 V 408 A 175 175 0 0 1 0,233 z" />
+  <path d="M 2,2 h 346 v 105 H 2 z" stroke="black" stroke-width="4" fill="#ffd400" />
+</svg>
