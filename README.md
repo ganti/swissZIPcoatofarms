@@ -6,7 +6,7 @@ alle Bilder stammen von Wikipedia. Quellenverzeichnis der Bilder: imagesource.cs
 
 
 
-#Coat Of Arms of all Swiss Towns 
+# Coat Of Arms of all Swiss Towns 
 Number in filename is the official BFS town id in Switzerland
  
 all Images originate from Wikipedia. Source of images: imagesource.csv
